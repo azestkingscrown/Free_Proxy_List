@@ -1,10 +1,10 @@
 # Free Active Proxy List
 
-This repository provides a continuously validated list of active public proxies, automatically verified and updated on an hourly basis.
+This repository provides a continuously validated list of active public proxies, automatically verified and updated every half hour.
 
 ## Features
 
-- **Hourly Updates**: Automatically tested and updated every hour.
+- **Half-Hourly Updates**: Automatically tested and updated every half hour.
 - **Pre-Filtered**: Invalid, dead, or extremely slow proxies are discarded.
 - **Multiple Formats**: Provided in both a simple list (`working_proxies.txt`) and a detailed JSON with latency statistics (`proxy_stats.json`).
 
