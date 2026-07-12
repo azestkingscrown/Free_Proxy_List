@@ -25,6 +25,10 @@ The raw proxy data is scraped from:
 - **Upstream Project**: [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
 - **Raw Data Source**: [proxifly free-proxy-list data.txt](https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all/data.txt)
 
+## Acknowledgments
+
+Special thanks to the creators and contributors of the [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) project for collecting and aggregating the raw proxy data used by this tool.
+
 ---
 
 *Note: This repository is updated programmatically using an automated Go-based checker script.*
