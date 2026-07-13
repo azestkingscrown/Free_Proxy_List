@@ -19,15 +19,17 @@ This repository was created to automatically parse public lists, perform concurr
 The validation and deployment tool used for this repository is written in Go and is open-sourced here:
 - **Go Proxy Checker Repository**: [azestkingscrown/free-proxy-checker](https://github.com/azestkingscrown/free-proxy-checker)
 
-## Upstream Data Source
+## Upstream Data Sources
 
-The raw proxy data is scraped from:
-- **Upstream Project**: [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
-- **Raw Data Source**: [proxifly free-proxy-list data.txt](https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all/data.txt)
+The raw proxy data is aggregated and scraped from multiple public sources:
+- [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
+- [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List)
+- [komutan234/Proxy-List-Free](https://github.com/komutan234/Proxy-List-Free)
+- [stormsia/proxy-list](https://github.com/stormsia/proxy-list)
 
 ## Acknowledgments
 
-Special thanks to the creators and contributors of the [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) project for collecting and aggregating the raw proxy data used by this tool.
+Special thanks to the creators and contributors of the open-source projects above for collecting, maintaining, and aggregating the raw proxy lists used by this validation tool.
 
 ---
 
