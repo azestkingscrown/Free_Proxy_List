@@ -1,4083 +1,3558 @@
 [
   {
-    "ip": "152.67.217.8",
-    "port": "1080",
+    "ip": "208.102.51.6",
+    "port": "58208",
     "protocol": "socks5",
-    "latency": 508,
-    "timestamp": "2026-10-15T18:00:02+09:00"
-  },
-  {
-    "ip": "20.121.252.238",
-    "port": "3000",
-    "protocol": "socks5",
-    "latency": 776,
-    "timestamp": "2026-10-15T18:00:03+09:00"
-  },
-  {
-    "ip": "212.77.75.25",
-    "port": "1088",
-    "protocol": "socks5",
-    "latency": 1685,
-    "timestamp": "2026-10-15T18:00:03+09:00"
+    "latency": 1074,
+    "timestamp": "2026-10-15T18:30:03+09:00"
   },
   {
     "ip": "199.66.182.243",
     "port": "4145",
     "protocol": "socks5",
-    "latency": 1686,
-    "timestamp": "2026-10-15T18:00:03+09:00"
-  },
-  {
-    "ip": "209.50.255.91",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1714,
-    "timestamp": "2026-10-15T18:00:03+09:00"
-  },
-  {
-    "ip": "107.174.30.94",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1796,
-    "timestamp": "2026-10-15T18:00:03+09:00"
-  },
-  {
-    "ip": "208.102.51.6",
-    "port": "58208",
-    "protocol": "socks5",
-    "latency": 1910,
-    "timestamp": "2026-10-15T18:00:03+09:00"
-  },
-  {
-    "ip": "184.178.172.18",
-    "port": "15280",
-    "protocol": "socks5",
-    "latency": 1965,
-    "timestamp": "2026-10-15T18:00:03+09:00"
-  },
-  {
-    "ip": "95.78.118.172",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 2049,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "70.166.65.160",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 2115,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "69.61.200.104",
-    "port": "36181",
-    "protocol": "socks5",
-    "latency": 2137,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "118.179.136.122",
-    "port": "9090",
-    "protocol": "socks5",
-    "latency": 2162,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "217.142.236.180",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 2202,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "103.100.158.115",
-    "port": "10809",
-    "protocol": "socks5",
-    "latency": 2203,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "185.70.129.183",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 2422,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "178.252.74.29",
-    "port": "1081",
-    "protocol": "socks5",
-    "latency": 2474,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "184.178.172.5",
-    "port": "15303",
-    "protocol": "socks5",
-    "latency": 2485,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "103.88.234.239",
-    "port": "40016",
-    "protocol": "socks5",
-    "latency": 2513,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "3.88.46.135",
-    "port": "1081",
-    "protocol": "socks5",
-    "latency": 839,
-    "timestamp": "2026-10-15T18:00:04+09:00"
+    "latency": 1076,
+    "timestamp": "2026-10-15T18:30:03+09:00"
   },
   {
     "ip": "143.198.90.221",
     "port": "1088",
     "protocol": "socks5",
-    "latency": 2539,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "72.49.49.11",
-    "port": "31034",
-    "protocol": "socks4",
-    "latency": 878,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "1.175.92.132",
-    "port": "5555",
-    "protocol": "socks5",
-    "latency": 1433,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "174.77.111.197",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 765,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "66.42.224.229",
-    "port": "41679",
-    "protocol": "socks5",
-    "latency": 2912,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "43.156.154.226",
-    "port": "12345",
-    "protocol": "socks5",
-    "latency": 2955,
-    "timestamp": "2026-10-15T18:00:04+09:00"
-  },
-  {
-    "ip": "216.105.128.144",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 3054,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "46.146.220.180",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 3077,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "184.178.172.11",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 813,
-    "timestamp": "2026-10-15T18:00:05+09:00"
+    "latency": 1108,
+    "timestamp": "2026-10-15T18:30:03+09:00"
   },
   {
     "ip": "47.245.165.201",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 3120,
-    "timestamp": "2026-10-15T18:00:05+09:00"
+    "latency": 1164,
+    "timestamp": "2026-10-15T18:30:03+09:00"
   },
   {
-    "ip": "98.188.47.132",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 968,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "98.175.31.195",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 1103,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "184.178.172.3",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 1192,
-    "timestamp": "2026-10-15T18:00:05+09:00"
+    "ip": "69.61.200.104",
+    "port": "36181",
+    "protocol": "socks5",
+    "latency": 1177,
+    "timestamp": "2026-10-15T18:30:03+09:00"
   },
   {
     "ip": "70.166.167.38",
     "port": "57728",
     "protocol": "socks5",
-    "latency": 3410,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "94.233.120.194",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 3479,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "93.88.134.18",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 3512,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "199.66.182.232",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 3515,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "49.13.22.249",
-    "port": "10805",
-    "protocol": "socks5",
-    "latency": 3551,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "24.249.199.12",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 1601,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "184.178.172.14",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 1552,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "24.249.199.4",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 1866,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "43.245.199.34",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 2542,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "98.170.57.231",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 1737,
-    "timestamp": "2026-10-15T18:00:05+09:00"
-  },
-  {
-    "ip": "194.28.162.12",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 4298,
-    "timestamp": "2026-10-15T18:00:06+09:00"
+    "latency": 1242,
+    "timestamp": "2026-10-15T18:30:03+09:00"
   },
   {
     "ip": "107.174.30.92",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 4404,
-    "timestamp": "2026-10-15T18:00:06+09:00"
+    "latency": 1463,
+    "timestamp": "2026-10-15T18:30:03+09:00"
   },
   {
-    "ip": "64.83.14.6",
-    "port": "555",
+    "ip": "70.166.65.160",
+    "port": "4145",
     "protocol": "socks5",
-    "latency": 4431,
-    "timestamp": "2026-10-15T18:00:06+09:00"
+    "latency": 1498,
+    "timestamp": "2026-10-15T18:30:03+09:00"
+  },
+  {
+    "ip": "217.142.236.180",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 1590,
+    "timestamp": "2026-10-15T18:30:03+09:00"
+  },
+  {
+    "ip": "103.100.158.115",
+    "port": "10809",
+    "protocol": "socks5",
+    "latency": 1672,
+    "timestamp": "2026-10-15T18:30:03+09:00"
   },
   {
     "ip": "47.87.97.94",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 4453,
-    "timestamp": "2026-10-15T18:00:06+09:00"
+    "latency": 1718,
+    "timestamp": "2026-10-15T18:30:03+09:00"
+  },
+  {
+    "ip": "184.178.172.18",
+    "port": "15280",
+    "protocol": "socks5",
+    "latency": 1727,
+    "timestamp": "2026-10-15T18:30:03+09:00"
+  },
+  {
+    "ip": "152.67.217.8",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 1795,
+    "timestamp": "2026-10-15T18:30:04+09:00"
+  },
+  {
+    "ip": "184.178.172.5",
+    "port": "15303",
+    "protocol": "socks5",
+    "latency": 1861,
+    "timestamp": "2026-10-15T18:30:04+09:00"
+  },
+  {
+    "ip": "216.105.128.144",
+    "port": "4145",
+    "protocol": "socks5",
+    "latency": 1955,
+    "timestamp": "2026-10-15T18:30:04+09:00"
+  },
+  {
+    "ip": "43.245.199.34",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 802,
+    "timestamp": "2026-10-15T18:30:04+09:00"
+  },
+  {
+    "ip": "1.175.92.132",
+    "port": "5555",
+    "protocol": "socks5",
+    "latency": 1353,
+    "timestamp": "2026-10-15T18:30:04+09:00"
+  },
+  {
+    "ip": "72.49.49.11",
+    "port": "31034",
+    "protocol": "socks4",
+    "latency": 1038,
+    "timestamp": "2026-10-15T18:30:04+09:00"
+  },
+  {
+    "ip": "95.78.118.172",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 2685,
+    "timestamp": "2026-10-15T18:30:04+09:00"
+  },
+  {
+    "ip": "93.88.134.18",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 2771,
+    "timestamp": "2026-10-15T18:30:04+09:00"
+  },
+  {
+    "ip": "20.121.252.238",
+    "port": "3000",
+    "protocol": "socks5",
+    "latency": 1649,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "98.175.31.195",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 890,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "24.249.199.4",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 1214,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "94.233.120.194",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 2905,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "155.103.158.243",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 1947,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "185.70.129.183",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 3190,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "174.77.111.197",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 1490,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "199.66.182.232",
+    "port": "4145",
+    "protocol": "socks5",
+    "latency": 3227,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "184.178.172.3",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 927,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "24.249.199.12",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 1531,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "98.188.47.132",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 1368,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "184.178.172.11",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 1083,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "184.178.172.14",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 1678,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "98.170.57.231",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 1907,
+    "timestamp": "2026-10-15T18:30:05+09:00"
+  },
+  {
+    "ip": "66.42.224.229",
+    "port": "41679",
+    "protocol": "socks5",
+    "latency": 3905,
+    "timestamp": "2026-10-15T18:30:06+09:00"
+  },
+  {
+    "ip": "212.77.75.25",
+    "port": "1088",
+    "protocol": "socks5",
+    "latency": 4507,
+    "timestamp": "2026-10-15T18:30:06+09:00"
   },
   {
     "ip": "94.190.40.87",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 5535,
-    "timestamp": "2026-10-15T18:00:07+09:00"
+    "latency": 5128,
+    "timestamp": "2026-10-15T18:30:07+09:00"
   },
   {
-    "ip": "27.73.208.144",
-    "port": "1028",
+    "ip": "103.88.234.239",
+    "port": "40016",
     "protocol": "socks5",
-    "latency": 4141,
-    "timestamp": "2026-10-15T18:00:07+09:00"
+    "latency": 5846,
+    "timestamp": "2026-10-15T18:30:08+09:00"
   },
   {
-    "ip": "109.191.10.98",
+    "ip": "49.13.22.249",
+    "port": "10805",
+    "protocol": "socks5",
+    "latency": 6049,
+    "timestamp": "2026-10-15T18:30:08+09:00"
+  },
+  {
+    "ip": "118.179.136.122",
+    "port": "9090",
+    "protocol": "socks5",
+    "latency": 6319,
+    "timestamp": "2026-10-15T18:30:08+09:00"
+  },
+  {
+    "ip": "209.50.255.91",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 7355,
-    "timestamp": "2026-10-15T18:00:09+09:00"
-  },
-  {
-    "ip": "199.66.183.226",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 4646,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "216.105.143.146",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 3763,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "184.181.217.213",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5703,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "98.190.239.3",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5063,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "72.206.74.126",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 4928,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "184.178.172.28",
-    "port": "15294",
-    "protocol": "socks4",
-    "latency": 5671,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "184.178.172.17",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5775,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "98.170.57.241",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5143,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "184.178.172.23",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5662,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "199.66.183.251",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 4692,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "72.214.108.67",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5298,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "184.182.240.12",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5049,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "184.182.240.211",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 4828,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "216.68.128.121",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5208,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "98.191.0.37",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5341,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "202.5.50.151",
-    "port": "1080",
-    "protocol": "socks4",
-    "latency": 4570,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "184.178.172.13",
-    "port": "15311",
-    "protocol": "socks4",
-    "latency": 5762,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "68.1.210.189",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5738,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "98.191.0.47",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5033,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "98.170.57.249",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5976,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "72.207.109.5",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5374,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "72.194.42.156",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 4133,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "93.118.135.176",
-    "port": "1080",
-    "protocol": "socks4",
-    "latency": 3090,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "174.77.111.198",
-    "port": "49547",
-    "protocol": "socks4",
-    "latency": 6151,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "72.195.101.99",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5856,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "184.185.2.12",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 6238,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "216.105.130.131",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 4470,
-    "timestamp": "2026-10-15T18:00:10+09:00"
-  },
-  {
-    "ip": "12.154.48.194",
-    "port": "5678",
-    "protocol": "socks4",
-    "latency": 867,
-    "timestamp": "2026-10-15T18:00:11+09:00"
+    "latency": 6474,
+    "timestamp": "2026-10-15T18:30:08+09:00"
   },
   {
     "ip": "194.67.51.210",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 9388,
-    "timestamp": "2026-10-15T18:00:11+09:00"
+    "latency": 6846,
+    "timestamp": "2026-10-15T18:30:09+09:00"
   },
   {
-    "ip": "154.79.251.168",
+    "ip": "78.109.137.53",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 7038,
+    "timestamp": "2026-10-15T18:30:09+09:00"
+  },
+  {
+    "ip": "184.178.172.13",
+    "port": "15311",
+    "protocol": "socks4",
+    "latency": 5315,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "98.191.0.47",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4499,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "174.77.111.198",
+    "port": "49547",
+    "protocol": "socks4",
+    "latency": 5521,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "64.83.14.6",
+    "port": "555",
+    "protocol": "socks5",
+    "latency": 8211,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "199.66.183.251",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 3083,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "98.191.0.37",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4995,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "184.178.172.28",
+    "port": "15294",
+    "protocol": "socks4",
+    "latency": 5449,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "98.190.239.3",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4815,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "98.170.57.241",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5005,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "72.214.108.67",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5046,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "72.195.101.99",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5226,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "184.181.217.213",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5733,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "72.206.74.126",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4741,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "216.68.128.121",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5093,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "199.66.183.226",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4433,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "184.182.240.12",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4947,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "203.172.120.179",
     "port": "1080",
     "protocol": "socks4",
-    "latency": 5690,
-    "timestamp": "2026-10-15T18:00:11+09:00"
+    "latency": 3881,
+    "timestamp": "2026-10-15T18:30:10+09:00"
   },
   {
-    "ip": "119.18.147.179",
-    "port": "1080",
+    "ip": "216.105.130.131",
+    "port": "4145",
     "protocol": "socks4",
-    "latency": 2127,
-    "timestamp": "2026-10-15T18:00:11+09:00"
+    "latency": 772,
+    "timestamp": "2026-10-15T18:30:10+09:00"
   },
   {
-    "ip": "31.77.19.92",
-    "port": "443",
+    "ip": "216.105.143.146",
+    "port": "4145",
     "protocol": "socks4",
-    "latency": 1729,
-    "timestamp": "2026-10-15T18:00:11+09:00"
+    "latency": 1396,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "184.178.172.23",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5645,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "184.178.172.17",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 6027,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "68.1.210.189",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5702,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "72.207.109.5",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5395,
+    "timestamp": "2026-10-15T18:30:10+09:00"
   },
   {
     "ip": "45.61.129.165",
     "port": "9050",
     "protocol": "socks4",
-    "latency": 6425,
-    "timestamp": "2026-10-15T18:00:11+09:00"
+    "latency": 2919,
+    "timestamp": "2026-10-15T18:30:10+09:00"
+  },
+  {
+    "ip": "202.5.50.151",
+    "port": "1080",
+    "protocol": "socks4",
+    "latency": 1962,
+    "timestamp": "2026-10-15T18:30:11+09:00"
+  },
+  {
+    "ip": "184.185.2.12",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 6117,
+    "timestamp": "2026-10-15T18:30:11+09:00"
+  },
+  {
+    "ip": "72.194.42.156",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 777,
+    "timestamp": "2026-10-15T18:30:11+09:00"
+  },
+  {
+    "ip": "98.170.57.249",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 6449,
+    "timestamp": "2026-10-15T18:30:11+09:00"
+  },
+  {
+    "ip": "27.73.208.144",
+    "port": "1028",
+    "protocol": "socks5",
+    "latency": 7645,
+    "timestamp": "2026-10-15T18:30:11+09:00"
+  },
+  {
+    "ip": "119.18.147.179",
+    "port": "1080",
+    "protocol": "socks4",
+    "latency": 1281,
+    "timestamp": "2026-10-15T18:30:11+09:00"
+  },
+  {
+    "ip": "184.182.240.211",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 6007,
+    "timestamp": "2026-10-15T18:30:11+09:00"
+  },
+  {
+    "ip": "123.200.15.226",
+    "port": "1080",
+    "protocol": "socks4",
+    "latency": 3191,
+    "timestamp": "2026-10-15T18:30:12+09:00"
+  },
+  {
+    "ip": "31.77.19.92",
+    "port": "443",
+    "protocol": "socks4",
+    "latency": 2306,
+    "timestamp": "2026-10-15T18:30:12+09:00"
+  },
+  {
+    "ip": "93.118.135.176",
+    "port": "1080",
+    "protocol": "socks4",
+    "latency": 6445,
+    "timestamp": "2026-10-15T18:30:16+09:00"
   },
   {
     "ip": "47.111.179.99",
     "port": "19518",
     "protocol": "https",
-    "latency": 2348,
-    "timestamp": "2026-10-15T18:00:21+09:00"
-  },
-  {
-    "ip": "78.14.19.3",
-    "port": "47715",
-    "protocol": "https",
-    "latency": 701,
-    "timestamp": "2026-10-15T18:00:25+09:00"
-  },
-  {
-    "ip": "5.161.50.82",
-    "port": "8118",
-    "protocol": "http",
-    "latency": 1537,
-    "timestamp": "2026-10-15T18:00:31+09:00"
+    "latency": 1027,
+    "timestamp": "2026-10-15T18:30:21+09:00"
   },
   {
     "ip": "190.12.150.244",
     "port": "999",
     "protocol": "http",
-    "latency": 3127,
-    "timestamp": "2026-10-15T18:00:32+09:00"
-  },
-  {
-    "ip": "176.111.37.5",
-    "port": "39811",
-    "protocol": "http",
-    "latency": 806,
-    "timestamp": "2026-10-15T18:00:33+09:00"
-  },
-  {
-    "ip": "176.111.37.216",
-    "port": "39811",
-    "protocol": "http",
-    "latency": 648,
-    "timestamp": "2026-10-15T18:00:34+09:00"
-  },
-  {
-    "ip": "45.71.186.211",
-    "port": "999",
-    "protocol": "http",
-    "latency": 4893,
-    "timestamp": "2026-10-15T18:00:35+09:00"
+    "latency": 1872,
+    "timestamp": "2026-10-15T18:30:32+09:00"
   },
   {
     "ip": "160.191.192.45",
     "port": "8090",
     "protocol": "http",
-    "latency": 5449,
-    "timestamp": "2026-10-15T18:00:35+09:00"
+    "latency": 2089,
+    "timestamp": "2026-10-15T18:30:33+09:00"
+  },
+  {
+    "ip": "176.111.37.5",
+    "port": "39811",
+    "protocol": "http",
+    "latency": 3138,
+    "timestamp": "2026-10-15T18:30:36+09:00"
+  },
+  {
+    "ip": "176.111.37.216",
+    "port": "39811",
+    "protocol": "http",
+    "latency": 1789,
+    "timestamp": "2026-10-15T18:30:36+09:00"
+  },
+  {
+    "ip": "103.174.236.88",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 6575,
+    "timestamp": "2026-10-15T18:30:37+09:00"
+  },
+  {
+    "ip": "175.184.236.12",
+    "port": "1111",
+    "protocol": "http",
+    "latency": 4191,
+    "timestamp": "2026-10-15T18:30:37+09:00"
+  },
+  {
+    "ip": "5.161.50.82",
+    "port": "8118",
+    "protocol": "http",
+    "latency": 6921,
+    "timestamp": "2026-10-15T18:30:37+09:00"
+  },
+  {
+    "ip": "186.96.111.214",
+    "port": "999",
+    "protocol": "http",
+    "latency": 7397,
+    "timestamp": "2026-10-15T18:30:38+09:00"
+  },
+  {
+    "ip": "103.167.170.70",
+    "port": "1111",
+    "protocol": "http",
+    "latency": 3752,
+    "timestamp": "2026-10-15T18:30:38+09:00"
   },
   {
     "ip": "163.61.55.113",
     "port": "7777",
     "protocol": "http",
-    "latency": 6283,
-    "timestamp": "2026-10-15T18:00:35+09:00"
+    "latency": 8295,
+    "timestamp": "2026-10-15T18:30:38+09:00"
   },
   {
-    "ip": "154.19.39.220",
-    "port": "8090",
-    "protocol": "http",
-    "latency": 6332,
-    "timestamp": "2026-10-15T18:00:35+09:00"
-  },
-  {
-    "ip": "114.141.50.210",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 6562,
-    "timestamp": "2026-10-15T18:00:36+09:00"
-  },
-  {
-    "ip": "203.174.15.138",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 7306,
-    "timestamp": "2026-10-15T18:00:36+09:00"
-  },
-  {
-    "ip": "158.172.153.36",
+    "ip": "45.71.186.214",
     "port": "999",
     "protocol": "http",
-    "latency": 7848,
-    "timestamp": "2026-10-15T18:00:37+09:00"
+    "latency": 8256,
+    "timestamp": "2026-10-15T18:30:39+09:00"
   },
   {
-    "ip": "103.123.85.89",
-    "port": "8080",
+    "ip": "103.81.175.141",
+    "port": "22311",
     "protocol": "http",
-    "latency": 753,
-    "timestamp": "2026-10-15T18:00:40+09:00"
+    "latency": 9918,
+    "timestamp": "2026-10-15T18:30:43+09:00"
   },
   {
-    "ip": "210.211.113.35",
-    "port": "80",
+    "ip": "140.238.32.108",
+    "port": "3128",
     "protocol": "http",
-    "latency": 199,
-    "timestamp": "2026-10-15T18:00:42+09:00"
-  },
-  {
-    "ip": "45.43.60.220",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 6935,
-    "timestamp": "2026-10-15T18:00:44+09:00"
-  },
-  {
-    "ip": "41.128.77.76",
-    "port": "1976",
-    "protocol": "http",
-    "latency": 4489,
-    "timestamp": "2026-10-15T18:00:44+09:00"
+    "latency": 7891,
+    "timestamp": "2026-10-15T18:30:48+09:00"
   },
   {
     "ip": "67.205.161.254",
     "port": "8118",
     "protocol": "http",
-    "latency": 873,
-    "timestamp": "2026-10-15T18:00:45+09:00"
+    "latency": 1188,
+    "timestamp": "2026-10-15T18:30:48+09:00"
   },
   {
     "ip": "103.28.37.131",
     "port": "3128",
     "protocol": "http",
-    "latency": 384,
-    "timestamp": "2026-10-15T18:00:46+09:00"
+    "latency": 723,
+    "timestamp": "2026-10-15T18:30:49+09:00"
   },
   {
-    "ip": "43.248.212.25",
+    "ip": "45.194.41.43",
     "port": "8080",
     "protocol": "http",
-    "latency": 4385,
-    "timestamp": "2026-10-15T18:00:47+09:00"
+    "latency": 664,
+    "timestamp": "2026-10-15T18:30:51+09:00"
   },
   {
-    "ip": "45.174.242.144",
-    "port": "999",
-    "protocol": "http",
-    "latency": 5654,
-    "timestamp": "2026-10-15T18:00:49+09:00"
-  },
-  {
-    "ip": "122.54.160.148",
-    "port": "8082",
-    "protocol": "http",
-    "latency": 3960,
-    "timestamp": "2026-10-15T18:00:51+09:00"
-  },
-  {
-    "ip": "43.245.131.90",
+    "ip": "45.194.41.103",
     "port": "8080",
     "protocol": "http",
-    "latency": 1732,
-    "timestamp": "2026-10-15T18:00:51+09:00"
+    "latency": 766,
+    "timestamp": "2026-10-15T18:30:51+09:00"
   },
   {
-    "ip": "103.19.56.68",
+    "ip": "116.204.166.39",
     "port": "8080",
     "protocol": "http",
-    "latency": 2394,
-    "timestamp": "2026-10-15T18:00:52+09:00"
-  },
-  {
-    "ip": "116.68.162.174",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 5277,
-    "timestamp": "2026-10-15T18:00:52+09:00"
-  },
-  {
-    "ip": "202.21.124.132",
-    "port": "1011",
-    "protocol": "http",
-    "latency": 2585,
-    "timestamp": "2026-10-15T18:00:52+09:00"
-  },
-  {
-    "ip": "201.7.31.170",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 6436,
-    "timestamp": "2026-10-15T18:00:52+09:00"
-  },
-  {
-    "ip": "196.204.3.18",
-    "port": "1981",
-    "protocol": "http",
-    "latency": 2004,
-    "timestamp": "2026-10-15T18:00:52+09:00"
-  },
-  {
-    "ip": "41.33.245.138",
-    "port": "1981",
-    "protocol": "http",
-    "latency": 1926,
-    "timestamp": "2026-10-15T18:00:52+09:00"
+    "latency": 5351,
+    "timestamp": "2026-10-15T18:30:52+09:00"
   },
   {
     "ip": "144.31.146.195",
     "port": "8080",
     "protocol": "http",
-    "latency": 762,
-    "timestamp": "2026-10-15T18:00:53+09:00"
+    "latency": 693,
+    "timestamp": "2026-10-15T18:30:55+09:00"
   },
   {
-    "ip": "109.205.126.6",
+    "ip": "103.165.155.195",
     "port": "8080",
     "protocol": "http",
-    "latency": 3414,
-    "timestamp": "2026-10-15T18:00:53+09:00"
+    "latency": 6922,
+    "timestamp": "2026-10-15T18:30:55+09:00"
   },
   {
-    "ip": "103.3.59.209",
-    "port": "8080",
+    "ip": "157.100.52.68",
+    "port": "999",
     "protocol": "http",
-    "latency": 9588,
-    "timestamp": "2026-10-15T18:00:54+09:00"
-  },
-  {
-    "ip": "197.164.101.14",
-    "port": "1981",
-    "protocol": "http",
-    "latency": 9181,
-    "timestamp": "2026-10-15T18:00:54+09:00"
-  },
-  {
-    "ip": "103.76.151.52",
-    "port": "8181",
-    "protocol": "http",
-    "latency": 5626,
-    "timestamp": "2026-10-15T18:00:55+09:00"
-  },
-  {
-    "ip": "45.195.90.142",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 731,
-    "timestamp": "2026-10-15T18:00:55+09:00"
+    "latency": 7476,
+    "timestamp": "2026-10-15T18:30:58+09:00"
   },
   {
     "ip": "3.211.120.181",
     "port": "443",
     "protocol": "http",
-    "latency": 601,
-    "timestamp": "2026-10-15T18:00:55+09:00"
-  },
-  {
-    "ip": "124.83.127.152",
-    "port": "8082",
-    "protocol": "http",
-    "latency": 3930,
-    "timestamp": "2026-10-15T18:00:55+09:00"
-  },
-  {
-    "ip": "34.105.252.3",
-    "port": "3128",
-    "protocol": "http",
-    "latency": 567,
-    "timestamp": "2026-10-15T18:00:56+09:00"
+    "latency": 575,
+    "timestamp": "2026-10-15T18:30:59+09:00"
   },
   {
     "ip": "41.128.90.51",
     "port": "1976",
     "protocol": "http",
-    "latency": 904,
-    "timestamp": "2026-10-15T18:00:56+09:00"
+    "latency": 996,
+    "timestamp": "2026-10-15T18:31:00+09:00"
   },
   {
-    "ip": "213.131.85.29",
-    "port": "1976",
+    "ip": "103.97.140.17",
+    "port": "8080",
     "protocol": "http",
-    "latency": 872,
-    "timestamp": "2026-10-15T18:00:57+09:00"
+    "latency": 3609,
+    "timestamp": "2026-10-15T18:31:01+09:00"
   },
   {
     "ip": "45.195.91.105",
     "port": "8080",
     "protocol": "http",
-    "latency": 1050,
-    "timestamp": "2026-10-15T18:00:57+09:00"
+    "latency": 734,
+    "timestamp": "2026-10-15T18:31:01+09:00"
   },
   {
-    "ip": "157.66.236.27",
-    "port": "1080",
+    "ip": "213.131.85.29",
+    "port": "1976",
     "protocol": "http",
-    "latency": 8050,
-    "timestamp": "2026-10-15T18:00:58+09:00"
+    "latency": 997,
+    "timestamp": "2026-10-15T18:31:01+09:00"
   },
   {
-    "ip": "201.7.31.44",
+    "ip": "45.194.46.57",
     "port": "8080",
     "protocol": "http",
-    "latency": 8190,
-    "timestamp": "2026-10-15T18:01:00+09:00"
+    "latency": 739,
+    "timestamp": "2026-10-15T18:31:02+09:00"
   },
   {
-    "ip": "103.94.250.22",
+    "ip": "45.194.91.7",
     "port": "8080",
     "protocol": "http",
-    "latency": 7223,
-    "timestamp": "2026-10-15T18:01:00+09:00"
+    "latency": 698,
+    "timestamp": "2026-10-15T18:31:02+09:00"
   },
   {
-    "ip": "182.53.202.229",
-    "port": "80",
-    "protocol": "http",
-    "latency": 5183,
-    "timestamp": "2026-10-15T18:01:01+09:00"
-  },
-  {
-    "ip": "181.209.39.90",
+    "ip": "38.191.161.182",
     "port": "999",
     "protocol": "http",
-    "latency": 7820,
-    "timestamp": "2026-10-15T18:01:01+09:00"
+    "latency": 9744,
+    "timestamp": "2026-10-15T18:31:02+09:00"
   },
   {
     "ip": "184.170.251.30",
     "port": "11288",
     "protocol": "socks4",
-    "latency": 820,
-    "timestamp": "2026-10-15T18:01:02+09:00"
-  },
-  {
-    "ip": "67.201.58.190",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 526,
-    "timestamp": "2026-10-15T18:01:02+09:00"
+    "latency": 689,
+    "timestamp": "2026-10-15T18:31:03+09:00"
   },
   {
     "ip": "192.252.216.86",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 1073,
-    "timestamp": "2026-10-15T18:01:02+09:00"
+    "latency": 728,
+    "timestamp": "2026-10-15T18:31:03+09:00"
   },
   {
-    "ip": "68.71.242.118",
+    "ip": "67.201.58.190",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 537,
-    "timestamp": "2026-10-15T18:01:02+09:00"
-  },
-  {
-    "ip": "192.111.137.35",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 804,
-    "timestamp": "2026-10-15T18:01:02+09:00"
-  },
-  {
-    "ip": "192.111.129.150",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 804,
-    "timestamp": "2026-10-15T18:01:02+09:00"
-  },
-  {
-    "ip": "67.201.39.14",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 709,
-    "timestamp": "2026-10-15T18:01:02+09:00"
-  },
-  {
-    "ip": "68.71.249.158",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 526,
-    "timestamp": "2026-10-15T18:01:03+09:00"
+    "latency": 483,
+    "timestamp": "2026-10-15T18:31:03+09:00"
   },
   {
     "ip": "192.252.211.193",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 1367,
-    "timestamp": "2026-10-15T18:01:03+09:00"
+    "latency": 1018,
+    "timestamp": "2026-10-15T18:31:04+09:00"
+  },
+  {
+    "ip": "49.146.49.199",
+    "port": "8082",
+    "protocol": "http",
+    "latency": 2912,
+    "timestamp": "2026-10-15T18:31:04+09:00"
+  },
+  {
+    "ip": "192.111.137.35",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 1325,
+    "timestamp": "2026-10-15T18:31:04+09:00"
+  },
+  {
+    "ip": "68.71.242.118",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 619,
+    "timestamp": "2026-10-15T18:31:04+09:00"
+  },
+  {
+    "ip": "192.111.129.150",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 760,
+    "timestamp": "2026-10-15T18:31:04+09:00"
+  },
+  {
+    "ip": "67.201.39.14",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 486,
+    "timestamp": "2026-10-15T18:31:04+09:00"
+  },
+  {
+    "ip": "68.71.249.158",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 682,
+    "timestamp": "2026-10-15T18:31:04+09:00"
   },
   {
     "ip": "67.201.35.145",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 1505,
-    "timestamp": "2026-10-15T18:01:04+09:00"
-  },
-  {
-    "ip": "181.78.27.35",
-    "port": "999",
-    "protocol": "http",
-    "latency": 9872,
-    "timestamp": "2026-10-15T18:01:05+09:00"
-  },
-  {
-    "ip": "41.216.186.161",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 5784,
-    "timestamp": "2026-10-15T18:01:05+09:00"
-  },
-  {
-    "ip": "195.114.209.50",
-    "port": "80",
-    "protocol": "http",
-    "latency": 690,
-    "timestamp": "2026-10-15T18:01:06+09:00"
-  },
-  {
-    "ip": "68.71.240.210",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 4075,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "68.71.243.14",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 4041,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "107.181.161.81",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 4002,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "latency": 491,
+    "timestamp": "2026-10-15T18:31:04+09:00"
   },
   {
     "ip": "199.102.104.70",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 5492,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "latency": 491,
+    "timestamp": "2026-10-15T18:31:04+09:00"
   },
   {
-    "ip": "142.54.232.6",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 3941,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "142.54.226.214",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 1997,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "142.54.229.249",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 3762,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "142.54.237.34",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 4066,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "192.252.214.20",
-    "port": "15864",
-    "protocol": "socks4",
-    "latency": 4631,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "192.252.214.17",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5381,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "192.111.137.37",
-    "port": "18762",
-    "protocol": "socks4",
-    "latency": 3527,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "184.170.249.65",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5075,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "98.188.47.150",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5388,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "184.181.178.33",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5663,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "74.119.144.60",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 3981,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "192.252.210.233",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 5538,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "ip": "201.165.162.25",
+    "port": "999",
+    "protocol": "http",
+    "latency": 4487,
+    "timestamp": "2026-10-15T18:31:05+09:00"
   },
   {
     "ip": "184.181.217.194",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 5838,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "latency": 770,
+    "timestamp": "2026-10-15T18:31:05+09:00"
   },
   {
-    "ip": "72.205.0.67",
+    "ip": "72.207.33.64",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 5572,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "latency": 836,
+    "timestamp": "2026-10-15T18:31:05+09:00"
   },
   {
-    "ip": "199.102.107.145",
+    "ip": "192.252.214.17",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 4498,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "latency": 710,
+    "timestamp": "2026-10-15T18:31:05+09:00"
   },
   {
-    "ip": "192.252.216.81",
+    "ip": "192.252.210.233",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 3951,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "latency": 789,
+    "timestamp": "2026-10-15T18:31:05+09:00"
+  },
+  {
+    "ip": "98.188.47.150",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 755,
+    "timestamp": "2026-10-15T18:31:05+09:00"
+  },
+  {
+    "ip": "184.181.178.33",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 1349,
+    "timestamp": "2026-10-15T18:31:05+09:00"
+  },
+  {
+    "ip": "195.114.209.50",
+    "port": "80",
+    "protocol": "http",
+    "latency": 689,
+    "timestamp": "2026-10-15T18:31:07+09:00"
+  },
+  {
+    "ip": "182.53.202.228",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 7596,
+    "timestamp": "2026-10-15T18:31:08+09:00"
+  },
+  {
+    "ip": "157.10.89.220",
+    "port": "1111",
+    "protocol": "http",
+    "latency": 7611,
+    "timestamp": "2026-10-15T18:31:08+09:00"
+  },
+  {
+    "ip": "103.55.22.226",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 7743,
+    "timestamp": "2026-10-15T18:31:08+09:00"
+  },
+  {
+    "ip": "103.213.97.78",
+    "port": "80",
+    "protocol": "http",
+    "latency": 921,
+    "timestamp": "2026-10-15T18:31:08+09:00"
+  },
+  {
+    "ip": "103.66.148.86",
+    "port": "9999",
+    "protocol": "http",
+    "latency": 8457,
+    "timestamp": "2026-10-15T18:31:09+09:00"
+  },
+  {
+    "ip": "142.54.237.34",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4879,
+    "timestamp": "2026-10-15T18:31:10+09:00"
   },
   {
     "ip": "67.201.33.10",
     "port": "25283",
     "protocol": "socks4",
-    "latency": 501,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "latency": 767,
+    "timestamp": "2026-10-15T18:31:10+09:00"
   },
   {
-    "ip": "202.133.88.173",
-    "port": "80",
-    "protocol": "http",
-    "latency": 2512,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "ip": "107.181.161.81",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5083,
+    "timestamp": "2026-10-15T18:31:10+09:00"
+  },
+  {
+    "ip": "142.54.229.249",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4845,
+    "timestamp": "2026-10-15T18:31:10+09:00"
+  },
+  {
+    "ip": "199.102.107.145",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5140,
+    "timestamp": "2026-10-15T18:31:10+09:00"
+  },
+  {
+    "ip": "142.54.232.6",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4866,
+    "timestamp": "2026-10-15T18:31:10+09:00"
+  },
+  {
+    "ip": "142.54.226.214",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 2157,
+    "timestamp": "2026-10-15T18:31:10+09:00"
+  },
+  {
+    "ip": "74.119.144.60",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4905,
+    "timestamp": "2026-10-15T18:31:10+09:00"
+  },
+  {
+    "ip": "68.71.243.14",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5294,
+    "timestamp": "2026-10-15T18:31:10+09:00"
+  },
+  {
+    "ip": "192.252.216.81",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4739,
+    "timestamp": "2026-10-15T18:31:10+09:00"
+  },
+  {
+    "ip": "192.111.137.37",
+    "port": "18762",
+    "protocol": "socks4",
+    "latency": 4443,
+    "timestamp": "2026-10-15T18:31:10+09:00"
+  },
+  {
+    "ip": "72.205.0.67",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5757,
+    "timestamp": "2026-10-15T18:31:10+09:00"
   },
   {
     "ip": "192.111.139.162",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 3666,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "latency": 4284,
+    "timestamp": "2026-10-15T18:31:10+09:00"
   },
   {
-    "ip": "192.252.215.2",
+    "ip": "68.71.240.210",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 4907,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "latency": 5544,
+    "timestamp": "2026-10-15T18:31:10+09:00"
+  },
+  {
+    "ip": "184.170.249.65",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5845,
+    "timestamp": "2026-10-15T18:31:10+09:00"
   },
   {
     "ip": "34.44.49.215",
     "port": "80",
     "protocol": "http",
     "latency": 363,
-    "timestamp": "2026-10-15T18:01:08+09:00"
+    "timestamp": "2026-10-15T18:31:11+09:00"
+  },
+  {
+    "ip": "192.252.215.2",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5969,
+    "timestamp": "2026-10-15T18:31:11+09:00"
+  },
+  {
+    "ip": "202.133.88.173",
+    "port": "80",
+    "protocol": "http",
+    "latency": 3006,
+    "timestamp": "2026-10-15T18:31:11+09:00"
+  },
+  {
+    "ip": "192.252.214.20",
+    "port": "15864",
+    "protocol": "socks4",
+    "latency": 6051,
+    "timestamp": "2026-10-15T18:31:11+09:00"
   },
   {
     "ip": "174.75.211.222",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 783,
-    "timestamp": "2026-10-15T18:01:08+09:00"
-  },
-  {
-    "ip": "103.213.97.78",
-    "port": "80",
-    "protocol": "http",
-    "latency": 3248,
-    "timestamp": "2026-10-15T18:01:09+09:00"
-  },
-  {
-    "ip": "72.207.33.64",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 6339,
-    "timestamp": "2026-10-15T18:01:09+09:00"
+    "latency": 840,
+    "timestamp": "2026-10-15T18:31:11+09:00"
   },
   {
     "ip": "219.93.101.63",
     "port": "80",
     "protocol": "http",
-    "latency": 1042,
-    "timestamp": "2026-10-15T18:01:09+09:00"
+    "latency": 754,
+    "timestamp": "2026-10-15T18:31:11+09:00"
   },
   {
     "ip": "115.127.31.66",
     "port": "8080",
     "protocol": "http",
-    "latency": 771,
-    "timestamp": "2026-10-15T18:01:09+09:00"
-  },
-  {
-    "ip": "192.111.137.34",
-    "port": "18765",
-    "protocol": "socks4",
-    "latency": 752,
-    "timestamp": "2026-10-15T18:01:10+09:00"
-  },
-  {
-    "ip": "184.178.172.25",
-    "port": "15291",
-    "protocol": "socks4",
-    "latency": 806,
-    "timestamp": "2026-10-15T18:01:10+09:00"
-  },
-  {
-    "ip": "198.8.94.174",
-    "port": "39078",
-    "protocol": "socks4",
-    "latency": 976,
-    "timestamp": "2026-10-15T18:01:10+09:00"
+    "latency": 857,
+    "timestamp": "2026-10-15T18:31:11+09:00"
   },
   {
     "ip": "98.182.147.97",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 1099,
-    "timestamp": "2026-10-15T18:01:10+09:00"
+    "latency": 755,
+    "timestamp": "2026-10-15T18:31:12+09:00"
   },
   {
-    "ip": "121.169.46.116",
-    "port": "1090",
-    "protocol": "socks5",
-    "latency": 889,
-    "timestamp": "2026-10-15T18:01:11+09:00"
-  },
-  {
-    "ip": "192.111.129.145",
-    "port": "16894",
+    "ip": "198.8.94.174",
+    "port": "39078",
     "protocol": "socks4",
-    "latency": 707,
-    "timestamp": "2026-10-15T18:01:11+09:00"
+    "latency": 783,
+    "timestamp": "2026-10-15T18:31:12+09:00"
+  },
+  {
+    "ip": "192.111.137.34",
+    "port": "18765",
+    "protocol": "socks4",
+    "latency": 852,
+    "timestamp": "2026-10-15T18:31:12+09:00"
+  },
+  {
+    "ip": "184.178.172.25",
+    "port": "15291",
+    "protocol": "socks4",
+    "latency": 796,
+    "timestamp": "2026-10-15T18:31:12+09:00"
   },
   {
     "ip": "198.8.84.3",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 1124,
-    "timestamp": "2026-10-15T18:01:12+09:00"
+    "latency": 648,
+    "timestamp": "2026-10-15T18:31:12+09:00"
+  },
+  {
+    "ip": "192.111.129.145",
+    "port": "16894",
+    "protocol": "socks4",
+    "latency": 843,
+    "timestamp": "2026-10-15T18:31:13+09:00"
   },
   {
     "ip": "142.54.239.1",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 496,
-    "timestamp": "2026-10-15T18:01:12+09:00"
+    "latency": 746,
+    "timestamp": "2026-10-15T18:31:14+09:00"
   },
   {
     "ip": "199.102.105.242",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 491,
-    "timestamp": "2026-10-15T18:01:12+09:00"
-  },
-  {
-    "ip": "5.255.117.127",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 3615,
-    "timestamp": "2026-10-15T18:01:12+09:00"
+    "latency": 521,
+    "timestamp": "2026-10-15T18:31:14+09:00"
   },
   {
     "ip": "68.71.247.130",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 506,
-    "timestamp": "2026-10-15T18:01:13+09:00"
+    "latency": 503,
+    "timestamp": "2026-10-15T18:31:15+09:00"
   },
   {
     "ip": "98.178.72.21",
     "port": "10919",
     "protocol": "socks4",
-    "latency": 809,
-    "timestamp": "2026-10-15T18:01:13+09:00"
+    "latency": 785,
+    "timestamp": "2026-10-15T18:31:16+09:00"
   },
   {
     "ip": "104.37.135.145",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 490,
-    "timestamp": "2026-10-15T18:01:13+09:00"
-  },
-  {
-    "ip": "199.58.185.9",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 710,
-    "timestamp": "2026-10-15T18:01:13+09:00"
+    "latency": 639,
+    "timestamp": "2026-10-15T18:31:16+09:00"
   },
   {
     "ip": "184.181.217.206",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 771,
-    "timestamp": "2026-10-15T18:01:13+09:00"
+    "latency": 906,
+    "timestamp": "2026-10-15T18:31:16+09:00"
+  },
+  {
+    "ip": "199.58.185.9",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 791,
+    "timestamp": "2026-10-15T18:31:16+09:00"
   },
   {
     "ip": "67.201.59.70",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 505,
-    "timestamp": "2026-10-15T18:01:14+09:00"
+    "latency": 486,
+    "timestamp": "2026-10-15T18:31:16+09:00"
   },
   {
     "ip": "192.111.139.163",
     "port": "19404",
     "protocol": "socks4",
-    "latency": 717,
-    "timestamp": "2026-10-15T18:01:14+09:00"
+    "latency": 692,
+    "timestamp": "2026-10-15T18:31:16+09:00"
   },
   {
     "ip": "174.138.119.88",
     "port": "80",
     "protocol": "http",
-    "latency": 345,
-    "timestamp": "2026-10-15T18:01:17+09:00"
-  },
-  {
-    "ip": "5.255.113.177",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 6564,
-    "timestamp": "2026-10-15T18:01:17+09:00"
+    "latency": 387,
+    "timestamp": "2026-10-15T18:31:19+09:00"
   },
   {
     "ip": "104.200.152.30",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 532,
-    "timestamp": "2026-10-15T18:01:17+09:00"
-  },
-  {
-    "ip": "184.181.217.201",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 757,
-    "timestamp": "2026-10-15T18:01:18+09:00"
+    "latency": 671,
+    "timestamp": "2026-10-15T18:31:19+09:00"
   },
   {
     "ip": "199.58.184.97",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 1087,
-    "timestamp": "2026-10-15T18:01:18+09:00"
+    "latency": 798,
+    "timestamp": "2026-10-15T18:31:20+09:00"
   },
   {
-    "ip": "203.19.38.114",
-    "port": "1080",
-    "protocol": "http",
-    "latency": 544,
-    "timestamp": "2026-10-15T18:01:18+09:00"
+    "ip": "184.181.217.201",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 1069,
+    "timestamp": "2026-10-15T18:31:20+09:00"
   },
   {
     "ip": "113.204.79.230",
     "port": "9091",
     "protocol": "http",
-    "latency": 881,
-    "timestamp": "2026-10-15T18:01:18+09:00"
-  },
-  {
-    "ip": "107.152.98.5",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 531,
-    "timestamp": "2026-10-15T18:01:19+09:00"
-  },
-  {
-    "ip": "72.37.216.68",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 539,
-    "timestamp": "2026-10-15T18:01:19+09:00"
-  },
-  {
-    "ip": "192.252.209.158",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 704,
-    "timestamp": "2026-10-15T18:01:19+09:00"
+    "latency": 858,
+    "timestamp": "2026-10-15T18:31:21+09:00"
   },
   {
     "ip": "97.74.87.226",
     "port": "80",
     "protocol": "http",
-    "latency": 729,
-    "timestamp": "2026-10-15T18:01:19+09:00"
+    "latency": 600,
+    "timestamp": "2026-10-15T18:31:21+09:00"
   },
   {
-    "ip": "68.71.241.33",
+    "ip": "203.19.38.114",
+    "port": "1080",
+    "protocol": "http",
+    "latency": 952,
+    "timestamp": "2026-10-15T18:31:21+09:00"
+  },
+  {
+    "ip": "192.252.209.158",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 536,
-    "timestamp": "2026-10-15T18:01:19+09:00"
+    "latency": 697,
+    "timestamp": "2026-10-15T18:31:21+09:00"
+  },
+  {
+    "ip": "107.152.98.5",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 642,
+    "timestamp": "2026-10-15T18:31:21+09:00"
   },
   {
     "ip": "162.253.68.97",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 515,
-    "timestamp": "2026-10-15T18:01:19+09:00"
+    "latency": 516,
+    "timestamp": "2026-10-15T18:31:21+09:00"
   },
   {
-    "ip": "192.111.135.18",
-    "port": "18301",
+    "ip": "72.37.216.68",
+    "port": "4145",
     "protocol": "socks4",
-    "latency": 751,
-    "timestamp": "2026-10-15T18:01:19+09:00"
+    "latency": 663,
+    "timestamp": "2026-10-15T18:31:21+09:00"
   },
   {
     "ip": "98.181.137.83",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 778,
-    "timestamp": "2026-10-15T18:01:19+09:00"
+    "latency": 754,
+    "timestamp": "2026-10-15T18:31:22+09:00"
+  },
+  {
+    "ip": "192.111.135.18",
+    "port": "18301",
+    "protocol": "socks4",
+    "latency": 797,
+    "timestamp": "2026-10-15T18:31:22+09:00"
   },
   {
     "ip": "192.111.138.29",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 944,
-    "timestamp": "2026-10-15T18:01:20+09:00"
+    "latency": 759,
+    "timestamp": "2026-10-15T18:31:22+09:00"
   },
   {
-    "ip": "192.111.134.10",
+    "ip": "68.71.241.33",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 507,
-    "timestamp": "2026-10-15T18:01:20+09:00"
+    "latency": 862,
+    "timestamp": "2026-10-15T18:31:22+09:00"
   },
   {
-    "ip": "68.71.245.206",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 649,
-    "timestamp": "2026-10-15T18:01:20+09:00"
+    "ip": "138.68.235.51",
+    "port": "80",
+    "protocol": "http",
+    "latency": 1787,
+    "timestamp": "2026-10-15T18:31:22+09:00"
   },
   {
     "ip": "61.158.175.38",
     "port": "9002",
     "protocol": "http",
-    "latency": 1194,
-    "timestamp": "2026-10-15T18:01:20+09:00"
-  },
-  {
-    "ip": "142.54.231.38",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 656,
-    "timestamp": "2026-10-15T18:01:20+09:00"
-  },
-  {
-    "ip": "192.252.215.5",
-    "port": "16137",
-    "protocol": "socks4",
-    "latency": 700,
-    "timestamp": "2026-10-15T18:01:20+09:00"
-  },
-  {
-    "ip": "98.181.137.80",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 772,
-    "timestamp": "2026-10-15T18:01:20+09:00"
+    "latency": 1006,
+    "timestamp": "2026-10-15T18:31:22+09:00"
   },
   {
     "ip": "199.187.210.54",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 674,
-    "timestamp": "2026-10-15T18:01:21+09:00"
+    "latency": 5267,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
-    "ip": "192.111.130.5",
-    "port": "17002",
+    "ip": "68.71.245.206",
+    "port": "4145",
     "protocol": "socks4",
-    "latency": 703,
-    "timestamp": "2026-10-15T18:01:21+09:00"
+    "latency": 5524,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
     "ip": "142.54.228.193",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 501,
-    "timestamp": "2026-10-15T18:01:21+09:00"
+    "latency": 4992,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
-    "ip": "107.181.168.145",
+    "ip": "142.54.231.38",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 671,
-    "timestamp": "2026-10-15T18:01:21+09:00"
+    "latency": 5421,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
-    "ip": "192.111.139.165",
+    "ip": "192.111.134.10",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 897,
-    "timestamp": "2026-10-15T18:01:21+09:00"
-  },
-  {
-    "ip": "74.119.147.209",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 738,
-    "timestamp": "2026-10-15T18:01:21+09:00"
-  },
-  {
-    "ip": "192.252.209.155",
-    "port": "14455",
-    "protocol": "socks4",
-    "latency": 1158,
-    "timestamp": "2026-10-15T18:01:21+09:00"
-  },
-  {
-    "ip": "77.242.177.57",
-    "port": "3128",
-    "protocol": "http",
-    "latency": 4024,
-    "timestamp": "2026-10-15T18:01:23+09:00"
-  },
-  {
-    "ip": "68.71.251.134",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 3621,
-    "timestamp": "2026-10-15T18:01:26+09:00"
-  },
-  {
-    "ip": "192.252.220.92",
-    "port": "17328",
-    "protocol": "socks4",
-    "latency": 5296,
-    "timestamp": "2026-10-15T18:01:26+09:00"
-  },
-  {
-    "ip": "142.54.236.97",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 2587,
-    "timestamp": "2026-10-15T18:01:26+09:00"
+    "latency": 5429,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
     "ip": "192.111.130.2",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 5692,
-    "timestamp": "2026-10-15T18:01:26+09:00"
+    "latency": 4234,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
-    "ip": "192.111.135.17",
-    "port": "18302",
+    "ip": "192.111.130.5",
+    "port": "17002",
     "protocol": "socks4",
-    "latency": 2321,
-    "timestamp": "2026-10-15T18:01:26+09:00"
-  },
-  {
-    "ip": "192.252.208.67",
-    "port": "14287",
-    "protocol": "socks4",
-    "latency": 5277,
-    "timestamp": "2026-10-15T18:01:26+09:00"
+    "latency": 5358,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
     "ip": "72.37.217.3",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 5496,
-    "timestamp": "2026-10-15T18:01:26+09:00"
+    "latency": 1069,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
-    "ip": "174.77.111.196",
+    "ip": "74.119.147.209",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 5184,
-    "timestamp": "2026-10-15T18:01:26+09:00"
+    "latency": 4830,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
-    "ip": "184.170.245.148",
+    "ip": "192.111.139.165",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 5345,
-    "timestamp": "2026-10-15T18:01:26+09:00"
+    "latency": 5384,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
-    "ip": "199.229.254.129",
+    "ip": "98.181.137.80",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 2621,
-    "timestamp": "2026-10-15T18:01:26+09:00"
-  },
-  {
-    "ip": "192.252.211.197",
-    "port": "14921",
-    "protocol": "socks4",
-    "latency": 1866,
-    "timestamp": "2026-10-15T18:01:26+09:00"
-  },
-  {
-    "ip": "199.116.114.11",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 3566,
-    "timestamp": "2026-10-15T18:01:26+09:00"
-  },
-  {
-    "ip": "70.166.167.55",
-    "port": "57745",
-    "protocol": "socks4",
-    "latency": 1057,
-    "timestamp": "2026-10-15T18:01:26+09:00"
-  },
-  {
-    "ip": "198.8.94.170",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 1476,
-    "timestamp": "2026-10-15T18:01:26+09:00"
+    "latency": 5565,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
     "ip": "199.116.112.6",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 5978,
-    "timestamp": "2026-10-15T18:01:26+09:00"
+    "latency": 1485,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
-    "ip": "184.181.217.220",
+    "ip": "192.252.215.5",
+    "port": "16137",
+    "protocol": "socks4",
+    "latency": 5670,
+    "timestamp": "2026-10-15T18:31:27+09:00"
+  },
+  {
+    "ip": "192.252.209.155",
+    "port": "14455",
+    "protocol": "socks4",
+    "latency": 4673,
+    "timestamp": "2026-10-15T18:31:27+09:00"
+  },
+  {
+    "ip": "107.181.168.145",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 790,
-    "timestamp": "2026-10-15T18:01:26+09:00"
+    "latency": 5438,
+    "timestamp": "2026-10-15T18:31:27+09:00"
   },
   {
-    "ip": "98.178.72.30",
+    "ip": "192.252.220.92",
+    "port": "17328",
+    "protocol": "socks4",
+    "latency": 611,
+    "timestamp": "2026-10-15T18:31:28+09:00"
+  },
+  {
+    "ip": "199.116.114.11",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 1030,
-    "timestamp": "2026-10-15T18:01:27+09:00"
+    "latency": 500,
+    "timestamp": "2026-10-15T18:31:28+09:00"
   },
   {
-    "ip": "68.1.210.163",
+    "ip": "174.77.111.196",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 1079,
-    "timestamp": "2026-10-15T18:01:27+09:00"
+    "latency": 761,
+    "timestamp": "2026-10-15T18:31:28+09:00"
   },
   {
-    "ip": "143.198.135.176",
-    "port": "80",
-    "protocol": "http",
-    "latency": 512,
-    "timestamp": "2026-10-15T18:01:27+09:00"
+    "ip": "142.54.236.97",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 525,
+    "timestamp": "2026-10-15T18:31:28+09:00"
   },
   {
-    "ip": "212.127.95.235",
-    "port": "8081",
-    "protocol": "http",
-    "latency": 746,
-    "timestamp": "2026-10-15T18:01:27+09:00"
+    "ip": "184.170.245.148",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 848,
+    "timestamp": "2026-10-15T18:31:28+09:00"
+  },
+  {
+    "ip": "192.252.208.67",
+    "port": "14287",
+    "protocol": "socks4",
+    "latency": 959,
+    "timestamp": "2026-10-15T18:31:28+09:00"
+  },
+  {
+    "ip": "68.71.251.134",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 799,
+    "timestamp": "2026-10-15T18:31:28+09:00"
+  },
+  {
+    "ip": "142.54.235.9",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 739,
+    "timestamp": "2026-10-15T18:31:28+09:00"
+  },
+  {
+    "ip": "192.111.135.17",
+    "port": "18302",
+    "protocol": "socks4",
+    "latency": 802,
+    "timestamp": "2026-10-15T18:31:28+09:00"
+  },
+  {
+    "ip": "199.229.254.129",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 1335,
+    "timestamp": "2026-10-15T18:31:29+09:00"
   },
   {
     "ip": "142.93.202.130",
     "port": "3128",
     "protocol": "http",
-    "latency": 687,
-    "timestamp": "2026-10-15T18:01:27+09:00"
+    "latency": 336,
+    "timestamp": "2026-10-15T18:31:29+09:00"
   },
   {
-    "ip": "184.181.217.210",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 887,
-    "timestamp": "2026-10-15T18:01:27+09:00"
-  },
-  {
-    "ip": "184.170.248.5",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 951,
-    "timestamp": "2026-10-15T18:01:27+09:00"
-  },
-  {
-    "ip": "184.178.172.26",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 1054,
-    "timestamp": "2026-10-15T18:01:27+09:00"
-  },
-  {
-    "ip": "192.252.220.89",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 1047,
-    "timestamp": "2026-10-15T18:01:28+09:00"
-  },
-  {
-    "ip": "196.1.93.16",
-    "port": "80",
+    "ip": "212.127.95.235",
+    "port": "8081",
     "protocol": "http",
-    "latency": 1195,
-    "timestamp": "2026-10-15T18:01:28+09:00"
+    "latency": 997,
+    "timestamp": "2026-10-15T18:31:29+09:00"
   },
   {
-    "ip": "109.199.119.160",
-    "port": "80",
-    "protocol": "http",
-    "latency": 459,
-    "timestamp": "2026-10-15T18:01:29+09:00"
-  },
-  {
-    "ip": "5.8.41.106",
+    "ip": "77.242.177.57",
     "port": "3128",
     "protocol": "http",
-    "latency": 1148,
-    "timestamp": "2026-10-15T18:01:29+09:00"
+    "latency": 9791,
+    "timestamp": "2026-10-15T18:31:31+09:00"
   },
   {
-    "ip": "8.215.25.3",
-    "port": "2080",
-    "protocol": "socks4",
-    "latency": 858,
-    "timestamp": "2026-10-15T18:01:29+09:00"
+    "ip": "143.198.135.176",
+    "port": "80",
+    "protocol": "http",
+    "latency": 2383,
+    "timestamp": "2026-10-15T18:31:31+09:00"
   },
   {
     "ip": "183.110.216.128",
     "port": "8090",
     "protocol": "http",
-    "latency": 2527,
-    "timestamp": "2026-10-15T18:01:29+09:00"
+    "latency": 2529,
+    "timestamp": "2026-10-15T18:31:32+09:00"
   },
   {
-    "ip": "139.162.78.109",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 190,
-    "timestamp": "2026-10-15T18:01:29+09:00"
-  },
-  {
-    "ip": "103.27.118.138",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 553,
-    "timestamp": "2026-10-15T18:01:29+09:00"
-  },
-  {
-    "ip": "194.150.110.134",
+    "ip": "109.199.119.160",
     "port": "80",
     "protocol": "http",
-    "latency": 1075,
-    "timestamp": "2026-10-15T18:01:29+09:00"
-  },
-  {
-    "ip": "58.187.44.85",
-    "port": "1088",
-    "protocol": "socks4",
-    "latency": 1472,
-    "timestamp": "2026-10-15T18:01:29+09:00"
+    "latency": 464,
+    "timestamp": "2026-10-15T18:31:32+09:00"
   },
   {
     "ip": "113.249.111.67",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 1535,
-    "timestamp": "2026-10-15T18:01:29+09:00"
+    "latency": 1428,
+    "timestamp": "2026-10-15T18:31:32+09:00"
   },
   {
-    "ip": "42.112.52.40",
-    "port": "20001",
-    "protocol": "socks4",
-    "latency": 750,
-    "timestamp": "2026-10-15T18:01:30+09:00"
-  },
-  {
-    "ip": "181.57.178.146",
-    "port": "1080",
-    "protocol": "socks4",
-    "latency": 797,
-    "timestamp": "2026-10-15T18:01:30+09:00"
-  },
-  {
-    "ip": "42.112.52.60",
-    "port": "20001",
-    "protocol": "socks4",
-    "latency": 976,
-    "timestamp": "2026-10-15T18:01:30+09:00"
-  },
-  {
-    "ip": "49.156.44.115",
-    "port": "8080",
+    "ip": "194.150.110.134",
+    "port": "80",
     "protocol": "http",
-    "latency": 3190,
-    "timestamp": "2026-10-15T18:01:30+09:00"
+    "latency": 706,
+    "timestamp": "2026-10-15T18:31:32+09:00"
   },
   {
-    "ip": "144.31.146.190",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 843,
-    "timestamp": "2026-10-15T18:01:31+09:00"
-  },
-  {
-    "ip": "141.148.65.110",
-    "port": "1081",
+    "ip": "142.54.237.38",
+    "port": "4145",
     "protocol": "socks4",
-    "latency": 3094,
-    "timestamp": "2026-10-15T18:01:31+09:00"
+    "latency": 2923,
+    "timestamp": "2026-10-15T18:31:33+09:00"
   },
   {
-    "ip": "80.65.211.149",
-    "port": "8888",
+    "ip": "70.166.167.55",
+    "port": "57745",
+    "protocol": "socks4",
+    "latency": 5650,
+    "timestamp": "2026-10-15T18:31:33+09:00"
+  },
+  {
+    "ip": "184.178.172.26",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4948,
+    "timestamp": "2026-10-15T18:31:33+09:00"
+  },
+  {
+    "ip": "184.181.217.210",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 4945,
+    "timestamp": "2026-10-15T18:31:33+09:00"
+  },
+  {
+    "ip": "192.252.211.197",
+    "port": "14921",
+    "protocol": "socks4",
+    "latency": 5812,
+    "timestamp": "2026-10-15T18:31:33+09:00"
+  },
+  {
+    "ip": "184.181.217.220",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5564,
+    "timestamp": "2026-10-15T18:31:33+09:00"
+  },
+  {
+    "ip": "184.170.248.5",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 5175,
+    "timestamp": "2026-10-15T18:31:33+09:00"
+  },
+  {
+    "ip": "58.187.26.252",
+    "port": "2061",
+    "protocol": "http",
+    "latency": 2132,
+    "timestamp": "2026-10-15T18:31:34+09:00"
+  },
+  {
+    "ip": "91.107.179.68",
+    "port": "10809",
     "protocol": "socks5",
-    "latency": 2063,
-    "timestamp": "2026-10-15T18:01:31+09:00"
+    "latency": 2352,
+    "timestamp": "2026-10-15T18:31:34+09:00"
   },
   {
-    "ip": "159.65.230.46",
-    "port": "8888",
-    "protocol": "http",
-    "latency": 452,
-    "timestamp": "2026-10-15T18:01:31+09:00"
-  },
-  {
-    "ip": "195.135.255.98",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1352,
-    "timestamp": "2026-10-15T18:01:32+09:00"
+    "ip": "198.8.94.170",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 6252,
+    "timestamp": "2026-10-15T18:31:34+09:00"
   },
   {
     "ip": "140.238.14.161",
     "port": "8080",
     "protocol": "http",
-    "latency": 3706,
-    "timestamp": "2026-10-15T18:01:32+09:00"
+    "latency": 1671,
+    "timestamp": "2026-10-15T18:31:34+09:00"
   },
   {
-    "ip": "95.81.107.187",
-    "port": "3128",
-    "protocol": "http",
-    "latency": 1763,
-    "timestamp": "2026-10-15T18:01:32+09:00"
+    "ip": "139.162.78.109",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 205,
+    "timestamp": "2026-10-15T18:31:34+09:00"
   },
   {
-    "ip": "190.111.243.150",
-    "port": "1085",
-    "protocol": "socks4",
-    "latency": 3412,
-    "timestamp": "2026-10-15T18:01:33+09:00"
-  },
-  {
-    "ip": "72.195.34.41",
+    "ip": "98.178.72.30",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 754,
-    "timestamp": "2026-10-15T18:01:33+09:00"
+    "latency": 6230,
+    "timestamp": "2026-10-15T18:31:34+09:00"
   },
   {
-    "ip": "31.220.78.244",
-    "port": "80",
-    "protocol": "http",
-    "latency": 1569,
-    "timestamp": "2026-10-15T18:01:33+09:00"
-  },
-  {
-    "ip": "36.95.235.18",
-    "port": "3629",
+    "ip": "68.1.210.163",
+    "port": "4145",
     "protocol": "socks4",
-    "latency": 2920,
-    "timestamp": "2026-10-15T18:01:33+09:00"
+    "latency": 6388,
+    "timestamp": "2026-10-15T18:31:34+09:00"
+  },
+  {
+    "ip": "49.156.44.115",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 4181,
+    "timestamp": "2026-10-15T18:31:34+09:00"
   },
   {
     "ip": "102.129.229.131",
     "port": "1081",
     "protocol": "socks4",
-    "latency": 5941,
-    "timestamp": "2026-10-15T18:01:34+09:00"
+    "latency": 3101,
+    "timestamp": "2026-10-15T18:31:34+09:00"
   },
   {
-    "ip": "72.195.114.169",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 1255,
-    "timestamp": "2026-10-15T18:01:34+09:00"
-  },
-  {
-    "ip": "192.252.208.70",
-    "port": "14282",
-    "protocol": "socks5",
-    "latency": 940,
-    "timestamp": "2026-10-15T18:01:35+09:00"
-  },
-  {
-    "ip": "162.214.159.94",
-    "port": "8085",
+    "ip": "103.27.118.138",
+    "port": "8080",
     "protocol": "http",
-    "latency": 345,
-    "timestamp": "2026-10-15T18:01:35+09:00"
+    "latency": 2979,
+    "timestamp": "2026-10-15T18:31:35+09:00"
   },
   {
-    "ip": "8.219.245.123",
+    "ip": "58.187.44.85",
+    "port": "1088",
+    "protocol": "socks4",
+    "latency": 4773,
+    "timestamp": "2026-10-15T18:31:36+09:00"
+  },
+  {
+    "ip": "144.31.146.190",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 776,
+    "timestamp": "2026-10-15T18:31:36+09:00"
+  },
+  {
+    "ip": "95.31.29.206",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 7525,
-    "timestamp": "2026-10-15T18:01:37+09:00"
+    "latency": 2697,
+    "timestamp": "2026-10-15T18:31:37+09:00"
   },
   {
-    "ip": "159.203.61.169",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 747,
-    "timestamp": "2026-10-15T18:01:37+09:00"
-  },
-  {
-    "ip": "174.75.211.193",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 972,
-    "timestamp": "2026-10-15T18:01:37+09:00"
-  },
-  {
-    "ip": "137.66.1.45",
-    "port": "80",
+    "ip": "159.65.230.46",
+    "port": "8888",
     "protocol": "http",
-    "latency": 744,
-    "timestamp": "2026-10-15T18:01:37+09:00"
+    "latency": 349,
+    "timestamp": "2026-10-15T18:31:38+09:00"
+  },
+  {
+    "ip": "72.195.34.41",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 756,
+    "timestamp": "2026-10-15T18:31:39+09:00"
+  },
+  {
+    "ip": "42.114.69.166",
+    "port": "20001",
+    "protocol": "socks5",
+    "latency": 7682,
+    "timestamp": "2026-10-15T18:31:39+09:00"
   },
   {
     "ip": "189.202.204.53",
     "port": "1080",
     "protocol": "socks4",
-    "latency": 6026,
-    "timestamp": "2026-10-15T18:01:38+09:00"
+    "latency": 1674,
+    "timestamp": "2026-10-15T18:31:39+09:00"
   },
   {
-    "ip": "51.75.206.209",
+    "ip": "110.76.144.112",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 6140,
+    "timestamp": "2026-10-15T18:31:40+09:00"
+  },
+  {
+    "ip": "72.195.114.169",
+    "port": "4145",
+    "protocol": "socks5",
+    "latency": 1109,
+    "timestamp": "2026-10-15T18:31:40+09:00"
+  },
+  {
+    "ip": "195.135.255.98",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 3994,
+    "timestamp": "2026-10-15T18:31:40+09:00"
+  },
+  {
+    "ip": "192.252.208.70",
+    "port": "14282",
+    "protocol": "socks5",
+    "latency": 882,
+    "timestamp": "2026-10-15T18:31:40+09:00"
+  },
+  {
+    "ip": "162.214.159.94",
+    "port": "8085",
+    "protocol": "http",
+    "latency": 433,
+    "timestamp": "2026-10-15T18:31:40+09:00"
+  },
+  {
+    "ip": "137.66.1.45",
     "port": "80",
     "protocol": "http",
-    "latency": 3005,
-    "timestamp": "2026-10-15T18:01:38+09:00"
-  },
-  {
-    "ip": "128.199.202.122",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 580,
-    "timestamp": "2026-10-15T18:01:38+09:00"
-  },
-  {
-    "ip": "72.195.34.59",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 1384,
-    "timestamp": "2026-10-15T18:01:39+09:00"
-  },
-  {
-    "ip": "158.101.8.92",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1851,
-    "timestamp": "2026-10-15T18:01:39+09:00"
-  },
-  {
-    "ip": "195.3.219.148",
-    "port": "1081",
-    "protocol": "socks5",
-    "latency": 1691,
-    "timestamp": "2026-10-15T18:01:39+09:00"
-  },
-  {
-    "ip": "46.8.104.176",
-    "port": "1080",
-    "protocol": "socks4",
-    "latency": 1092,
-    "timestamp": "2026-10-15T18:01:39+09:00"
-  },
-  {
-    "ip": "118.179.102.168",
-    "port": "9090",
-    "protocol": "socks5",
-    "latency": 8395,
-    "timestamp": "2026-10-15T18:01:39+09:00"
-  },
-  {
-    "ip": "72.207.113.97",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 1218,
-    "timestamp": "2026-10-15T18:01:39+09:00"
-  },
-  {
-    "ip": "207.180.254.198",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 1027,
-    "timestamp": "2026-10-15T18:01:40+09:00"
+    "latency": 371,
+    "timestamp": "2026-10-15T18:31:40+09:00"
   },
   {
     "ip": "81.12.157.98",
     "port": "5678",
     "protocol": "socks4",
-    "latency": 5159,
-    "timestamp": "2026-10-15T18:01:40+09:00"
+    "latency": 1076,
+    "timestamp": "2026-10-15T18:31:40+09:00"
   },
   {
-    "ip": "107.161.178.244",
-    "port": "3128",
-    "protocol": "http",
-    "latency": 2500,
-    "timestamp": "2026-10-15T18:01:40+09:00"
-  },
-  {
-    "ip": "188.72.16.74",
-    "port": "1080",
-    "protocol": "socks4",
-    "latency": 1458,
-    "timestamp": "2026-10-15T18:01:41+09:00"
-  },
-  {
-    "ip": "184.75.221.82",
-    "port": "3118",
-    "protocol": "http",
-    "latency": 2526,
-    "timestamp": "2026-10-15T18:01:41+09:00"
-  },
-  {
-    "ip": "194.182.178.90",
+    "ip": "159.203.61.169",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 3505,
-    "timestamp": "2026-10-15T18:01:42+09:00"
+    "latency": 704,
+    "timestamp": "2026-10-15T18:31:40+09:00"
   },
   {
-    "ip": "8.220.141.8",
-    "port": "8888",
-    "protocol": "socks4",
-    "latency": 3159,
-    "timestamp": "2026-10-15T18:01:42+09:00"
-  },
-  {
-    "ip": "171.25.158.95",
+    "ip": "128.199.202.122",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 3133,
-    "timestamp": "2026-10-15T18:01:43+09:00"
+    "latency": 559,
+    "timestamp": "2026-10-15T18:31:41+09:00"
   },
   {
-    "ip": "82.115.60.51",
-    "port": "80",
-    "protocol": "http",
-    "latency": 5171,
-    "timestamp": "2026-10-15T18:01:43+09:00"
-  },
-  {
-    "ip": "72.195.114.184",
+    "ip": "174.75.211.193",
     "port": "4145",
-    "protocol": "socks4",
-    "latency": 784,
-    "timestamp": "2026-10-15T18:01:43+09:00"
+    "protocol": "socks5",
+    "latency": 1325,
+    "timestamp": "2026-10-15T18:31:41+09:00"
   },
   {
-    "ip": "43.160.245.155",
-    "port": "8080",
+    "ip": "181.57.178.146",
+    "port": "1080",
     "protocol": "socks4",
-    "latency": 5487,
-    "timestamp": "2026-10-15T18:01:44+09:00"
+    "latency": 7945,
+    "timestamp": "2026-10-15T18:31:41+09:00"
   },
   {
-    "ip": "188.165.199.207",
+    "ip": "165.99.90.2",
+    "port": "1080",
+    "protocol": "socks4",
+    "latency": 917,
+    "timestamp": "2026-10-15T18:31:41+09:00"
+  },
+  {
+    "ip": "72.195.34.59",
+    "port": "4145",
+    "protocol": "socks5",
+    "latency": 1019,
+    "timestamp": "2026-10-15T18:31:42+09:00"
+  },
+  {
+    "ip": "31.220.78.244",
     "port": "80",
     "protocol": "http",
-    "latency": 5982,
-    "timestamp": "2026-10-15T18:01:44+09:00"
+    "latency": 3691,
+    "timestamp": "2026-10-15T18:31:42+09:00"
   },
   {
-    "ip": "82.9.133.51",
-    "port": "9150",
-    "protocol": "socks5",
-    "latency": 4791,
-    "timestamp": "2026-10-15T18:01:44+09:00"
-  },
-  {
-    "ip": "14.241.182.44",
-    "port": "5678",
+    "ip": "42.112.52.24",
+    "port": "20001",
     "protocol": "socks4",
-    "latency": 760,
-    "timestamp": "2026-10-15T18:01:44+09:00"
-  },
-  {
-    "ip": "8.212.168.170",
-    "port": "1081",
-    "protocol": "socks4",
-    "latency": 3156,
-    "timestamp": "2026-10-15T18:01:45+09:00"
+    "latency": 3376,
+    "timestamp": "2026-10-15T18:31:42+09:00"
   },
   {
     "ip": "42.112.52.3",
     "port": "20001",
     "protocol": "socks4",
-    "latency": 8267,
-    "timestamp": "2026-10-15T18:01:45+09:00"
+    "latency": 2121,
+    "timestamp": "2026-10-15T18:31:42+09:00"
+  },
+  {
+    "ip": "207.180.254.198",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 702,
+    "timestamp": "2026-10-15T18:31:43+09:00"
+  },
+  {
+    "ip": "184.75.221.82",
+    "port": "3118",
+    "protocol": "http",
+    "latency": 970,
+    "timestamp": "2026-10-15T18:31:43+09:00"
+  },
+  {
+    "ip": "72.207.113.97",
+    "port": "4145",
+    "protocol": "socks5",
+    "latency": 1094,
+    "timestamp": "2026-10-15T18:31:43+09:00"
+  },
+  {
+    "ip": "87.199.202.58",
+    "port": "443",
+    "protocol": "http",
+    "latency": 5795,
+    "timestamp": "2026-10-15T18:31:43+09:00"
+  },
+  {
+    "ip": "107.161.178.244",
+    "port": "3128",
+    "protocol": "http",
+    "latency": 2182,
+    "timestamp": "2026-10-15T18:31:43+09:00"
+  },
+  {
+    "ip": "51.75.206.209",
+    "port": "80",
+    "protocol": "http",
+    "latency": 3804,
+    "timestamp": "2026-10-15T18:31:43+09:00"
+  },
+  {
+    "ip": "188.165.199.207",
+    "port": "80",
+    "protocol": "http",
+    "latency": 2175,
+    "timestamp": "2026-10-15T18:31:43+09:00"
+  },
+  {
+    "ip": "150.136.234.139",
+    "port": "1080",
+    "protocol": "socks4",
+    "latency": 3628,
+    "timestamp": "2026-10-15T18:31:45+09:00"
+  },
+  {
+    "ip": "43.160.245.155",
+    "port": "8080",
+    "protocol": "socks4",
+    "latency": 3375,
+    "timestamp": "2026-10-15T18:31:45+09:00"
+  },
+  {
+    "ip": "121.46.226.221",
+    "port": "10808",
+    "protocol": "socks4",
+    "latency": 2302,
+    "timestamp": "2026-10-15T18:31:45+09:00"
+  },
+  {
+    "ip": "101.36.112.205",
+    "port": "1081",
+    "protocol": "socks4",
+    "latency": 6832,
+    "timestamp": "2026-10-15T18:31:45+09:00"
+  },
+  {
+    "ip": "95.81.107.187",
+    "port": "3128",
+    "protocol": "http",
+    "latency": 9305,
+    "timestamp": "2026-10-15T18:31:46+09:00"
+  },
+  {
+    "ip": "8.220.141.8",
+    "port": "8888",
+    "protocol": "socks4",
+    "latency": 3127,
+    "timestamp": "2026-10-15T18:31:46+09:00"
+  },
+  {
+    "ip": "105.214.51.182",
+    "port": "5678",
+    "protocol": "socks4",
+    "latency": 2746,
+    "timestamp": "2026-10-15T18:31:46+09:00"
+  },
+  {
+    "ip": "103.122.67.97",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 7867,
+    "timestamp": "2026-10-15T18:31:46+09:00"
+  },
+  {
+    "ip": "72.195.114.184",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 797,
+    "timestamp": "2026-10-15T18:31:47+09:00"
+  },
+  {
+    "ip": "171.25.158.95",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 3314,
+    "timestamp": "2026-10-15T18:31:47+09:00"
+  },
+  {
+    "ip": "37.193.125.68",
+    "port": "1090",
+    "protocol": "socks4",
+    "latency": 3457,
+    "timestamp": "2026-10-15T18:31:47+09:00"
+  },
+  {
+    "ip": "82.115.60.51",
+    "port": "80",
+    "protocol": "http",
+    "latency": 6462,
+    "timestamp": "2026-10-15T18:31:48+09:00"
+  },
+  {
+    "ip": "8.212.168.170",
+    "port": "1081",
+    "protocol": "socks4",
+    "latency": 3131,
+    "timestamp": "2026-10-15T18:31:49+09:00"
+  },
+  {
+    "ip": "103.197.242.106",
+    "port": "1080",
+    "protocol": "socks4",
+    "latency": 1970,
+    "timestamp": "2026-10-15T18:31:49+09:00"
+  },
+  {
+    "ip": "170.80.221.192",
+    "port": "4153",
+    "protocol": "socks4",
+    "latency": 6207,
+    "timestamp": "2026-10-15T18:31:49+09:00"
+  },
+  {
+    "ip": "43.157.224.190",
+    "port": "40001",
+    "protocol": "socks4",
+    "latency": 8183,
+    "timestamp": "2026-10-15T18:31:50+09:00"
   },
   {
     "ip": "110.38.234.74",
     "port": "1080",
     "protocol": "socks4",
-    "latency": 6280,
-    "timestamp": "2026-10-15T18:01:47+09:00"
-  },
-  {
-    "ip": "179.189.248.125",
-    "port": "5432",
-    "protocol": "socks4",
-    "latency": 3023,
-    "timestamp": "2026-10-15T18:01:47+09:00"
+    "latency": 6284,
+    "timestamp": "2026-10-15T18:31:51+09:00"
   },
   {
     "ip": "47.89.159.212",
     "port": "8085",
     "protocol": "socks5",
-    "latency": 6363,
-    "timestamp": "2026-10-15T18:01:48+09:00"
+    "latency": 6365,
+    "timestamp": "2026-10-15T18:31:52+09:00"
   },
   {
-    "ip": "203.172.136.211",
-    "port": "8080",
+    "ip": "177.234.217.236",
+    "port": "999",
     "protocol": "http",
-    "latency": 3492,
-    "timestamp": "2026-10-15T18:01:49+09:00"
-  },
-  {
-    "ip": "31.76.110.221",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 6652,
-    "timestamp": "2026-10-15T18:01:50+09:00"
-  },
-  {
-    "ip": "98.175.31.222",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 1205,
-    "timestamp": "2026-10-15T18:01:51+09:00"
-  },
-  {
-    "ip": "72.194.42.131",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 1201,
-    "timestamp": "2026-10-15T18:01:51+09:00"
-  },
-  {
-    "ip": "121.139.218.165",
-    "port": "43295",
-    "protocol": "socks4",
-    "latency": 1527,
-    "timestamp": "2026-10-15T18:01:51+09:00"
+    "latency": 9310,
+    "timestamp": "2026-10-15T18:31:53+09:00"
   },
   {
     "ip": "179.60.189.81",
     "port": "999",
     "protocol": "http",
-    "latency": 3975,
-    "timestamp": "2026-10-15T18:01:51+09:00"
+    "latency": 2420,
+    "timestamp": "2026-10-15T18:31:53+09:00"
   },
   {
-    "ip": "58.65.142.254",
-    "port": "8125",
-    "protocol": "socks4",
-    "latency": 5491,
-    "timestamp": "2026-10-15T18:01:52+09:00"
-  },
-  {
-    "ip": "116.196.150.180",
-    "port": "17981",
-    "protocol": "http",
-    "latency": 2118,
-    "timestamp": "2026-10-15T18:01:53+09:00"
-  },
-  {
-    "ip": "111.125.154.22",
-    "port": "1080",
-    "protocol": "socks4",
-    "latency": 6815,
-    "timestamp": "2026-10-15T18:01:53+09:00"
-  },
-  {
-    "ip": "101.32.94.127",
-    "port": "8089",
+    "ip": "42.114.69.160",
+    "port": "20001",
     "protocol": "socks5",
-    "latency": 3835,
-    "timestamp": "2026-10-15T18:01:53+09:00"
+    "latency": 2535,
+    "timestamp": "2026-10-15T18:31:54+09:00"
+  },
+  {
+    "ip": "31.76.110.221",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 7383,
+    "timestamp": "2026-10-15T18:31:54+09:00"
+  },
+  {
+    "ip": "72.194.42.131",
+    "port": "4145",
+    "protocol": "socks5",
+    "latency": 1224,
+    "timestamp": "2026-10-15T18:31:54+09:00"
+  },
+  {
+    "ip": "98.175.31.222",
+    "port": "4145",
+    "protocol": "socks5",
+    "latency": 1285,
+    "timestamp": "2026-10-15T18:31:55+09:00"
+  },
+  {
+    "ip": "136.233.136.41",
+    "port": "43314",
+    "protocol": "socks4",
+    "latency": 1194,
+    "timestamp": "2026-10-15T18:31:55+09:00"
+  },
+  {
+    "ip": "212.33.250.53",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 5124,
+    "timestamp": "2026-10-15T18:31:55+09:00"
   },
   {
     "ip": "36.95.82.69",
     "port": "1080",
     "protocol": "socks4",
-    "latency": 3852,
-    "timestamp": "2026-10-15T18:01:54+09:00"
+    "latency": 1820,
+    "timestamp": "2026-10-15T18:31:55+09:00"
   },
   {
-    "ip": "47.79.33.142",
-    "port": "3128",
+    "ip": "116.196.150.180",
+    "port": "17981",
     "protocol": "http",
-    "latency": 413,
-    "timestamp": "2026-10-15T18:01:54+09:00"
+    "latency": 1064,
+    "timestamp": "2026-10-15T18:31:56+09:00"
+  },
+  {
+    "ip": "196.223.129.21",
+    "port": "80",
+    "protocol": "http",
+    "latency": 6425,
+    "timestamp": "2026-10-15T18:31:56+09:00"
+  },
+  {
+    "ip": "124.248.164.36",
+    "port": "1080",
+    "protocol": "socks4",
+    "latency": 2852,
+    "timestamp": "2026-10-15T18:31:58+09:00"
+  },
+  {
+    "ip": "158.101.99.182",
+    "port": "1080",
+    "protocol": "http",
+    "latency": 351,
+    "timestamp": "2026-10-15T18:31:59+09:00"
   },
   {
     "ip": "150.140.148.235",
     "port": "80",
     "protocol": "http",
-    "latency": 1963,
-    "timestamp": "2026-10-15T18:01:55+09:00"
+    "latency": 3153,
+    "timestamp": "2026-10-15T18:31:59+09:00"
   },
   {
     "ip": "34.43.46.91",
     "port": "80",
     "protocol": "http",
-    "latency": 943,
-    "timestamp": "2026-10-15T18:01:55+09:00"
+    "latency": 440,
+    "timestamp": "2026-10-15T18:31:59+09:00"
   },
   {
-    "ip": "219.148.171.178",
-    "port": "9445",
-    "protocol": "http",
-    "latency": 8635,
-    "timestamp": "2026-10-15T18:01:56+09:00"
+    "ip": "43.130.38.45",
+    "port": "51029",
+    "protocol": "socks4",
+    "latency": 9921,
+    "timestamp": "2026-10-15T18:32:00+09:00"
   },
   {
-    "ip": "165.99.90.1",
+    "ip": "45.118.77.67",
     "port": "1080",
     "protocol": "socks4",
-    "latency": 1039,
-    "timestamp": "2026-10-15T18:01:59+09:00"
-  },
-  {
-    "ip": "8.209.96.245",
-    "port": "1081",
-    "protocol": "socks4",
-    "latency": 3509,
-    "timestamp": "2026-10-15T18:02:00+09:00"
+    "latency": 925,
+    "timestamp": "2026-10-15T18:32:01+09:00"
   },
   {
     "ip": "93.90.231.101",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 7455,
-    "timestamp": "2026-10-15T18:02:00+09:00"
-  },
-  {
-    "ip": "47.237.2.245",
-    "port": "1311",
-    "protocol": "http",
-    "latency": 2176,
-    "timestamp": "2026-10-15T18:02:00+09:00"
-  },
-  {
-    "ip": "58.69.124.137",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 701,
-    "timestamp": "2026-10-15T18:02:01+09:00"
-  },
-  {
-    "ip": "219.65.73.81",
-    "port": "80",
-    "protocol": "http",
-    "latency": 1263,
-    "timestamp": "2026-10-15T18:02:01+09:00"
-  },
-  {
-    "ip": "14.32.24.79",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 4552,
-    "timestamp": "2026-10-15T18:02:02+09:00"
-  },
-  {
-    "ip": "103.189.218.76",
-    "port": "6969",
-    "protocol": "socks5",
-    "latency": 8556,
-    "timestamp": "2026-10-15T18:02:02+09:00"
-  },
-  {
-    "ip": "202.40.177.94",
-    "port": "5678",
-    "protocol": "socks4",
-    "latency": 8019,
-    "timestamp": "2026-10-15T18:02:03+09:00"
-  },
-  {
-    "ip": "174.64.199.82",
-    "port": "4145",
-    "protocol": "socks4",
-    "latency": 757,
-    "timestamp": "2026-10-15T18:02:03+09:00"
+    "latency": 4778,
+    "timestamp": "2026-10-15T18:32:01+09:00"
   },
   {
     "ip": "198.244.254.77",
     "port": "3128",
     "protocol": "http",
-    "latency": 9629,
-    "timestamp": "2026-10-15T18:02:04+09:00"
+    "latency": 3841,
+    "timestamp": "2026-10-15T18:32:03+09:00"
+  },
+  {
+    "ip": "51.15.253.45",
+    "port": "8080",
+    "protocol": "socks5",
+    "latency": 6074,
+    "timestamp": "2026-10-15T18:32:03+09:00"
+  },
+  {
+    "ip": "47.237.2.245",
+    "port": "1311",
+    "protocol": "http",
+    "latency": 2175,
+    "timestamp": "2026-10-15T18:32:03+09:00"
+  },
+  {
+    "ip": "219.65.73.81",
+    "port": "80",
+    "protocol": "http",
+    "latency": 1439,
+    "timestamp": "2026-10-15T18:32:05+09:00"
+  },
+  {
+    "ip": "45.234.101.120",
+    "port": "8081",
+    "protocol": "http",
+    "latency": 6494,
+    "timestamp": "2026-10-15T18:32:07+09:00"
+  },
+  {
+    "ip": "202.40.177.94",
+    "port": "5678",
+    "protocol": "socks4",
+    "latency": 8091,
+    "timestamp": "2026-10-15T18:32:07+09:00"
+  },
+  {
+    "ip": "87.236.23.100",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 3627,
+    "timestamp": "2026-10-15T18:32:07+09:00"
+  },
+  {
+    "ip": "174.64.199.82",
+    "port": "4145",
+    "protocol": "socks4",
+    "latency": 917,
+    "timestamp": "2026-10-15T18:32:07+09:00"
   },
   {
     "ip": "174.64.199.79",
     "port": "4145",
     "protocol": "socks4",
-    "latency": 1051,
-    "timestamp": "2026-10-15T18:02:04+09:00"
+    "latency": 1010,
+    "timestamp": "2026-10-15T18:32:08+09:00"
+  },
+  {
+    "ip": "170.168.102.55",
+    "port": "3128",
+    "protocol": "http",
+    "latency": 6811,
+    "timestamp": "2026-10-15T18:32:08+09:00"
   },
   {
     "ip": "198.199.86.11",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 717,
-    "timestamp": "2026-10-15T18:02:05+09:00"
+    "latency": 743,
+    "timestamp": "2026-10-15T18:32:09+09:00"
   },
   {
-    "ip": "78.29.56.178",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 4453,
-    "timestamp": "2026-10-15T18:02:06+09:00"
-  },
-  {
-    "ip": "34.122.187.196",
-    "port": "80",
-    "protocol": "http",
-    "latency": 4629,
-    "timestamp": "2026-10-15T18:02:07+09:00"
-  },
-  {
-    "ip": "206.135.47.108",
+    "ip": "181.119.64.21",
     "port": "999",
     "protocol": "http",
-    "latency": 6341,
-    "timestamp": "2026-10-15T18:02:07+09:00"
-  },
-  {
-    "ip": "89.135.59.77",
-    "port": "8090",
-    "protocol": "http",
-    "latency": 8352,
-    "timestamp": "2026-10-15T18:02:09+09:00"
-  },
-  {
-    "ip": "103.172.71.140",
-    "port": "8989",
-    "protocol": "http",
-    "latency": 5319,
-    "timestamp": "2026-10-15T18:02:09+09:00"
-  },
-  {
-    "ip": "196.204.80.108",
-    "port": "1981",
-    "protocol": "http",
-    "latency": 2691,
-    "timestamp": "2026-10-15T18:02:10+09:00"
-  },
-  {
-    "ip": "150.107.107.152",
-    "port": "1080",
-    "protocol": "socks4",
-    "latency": 2124,
-    "timestamp": "2026-10-15T18:02:10+09:00"
-  },
-  {
-    "ip": "120.232.115.170",
-    "port": "17981",
-    "protocol": "http",
-    "latency": 581,
-    "timestamp": "2026-10-15T18:02:10+09:00"
-  },
-  {
-    "ip": "151.185.58.17",
-    "port": "80",
-    "protocol": "http",
-    "latency": 1391,
-    "timestamp": "2026-10-15T18:02:10+09:00"
+    "latency": 2035,
+    "timestamp": "2026-10-15T18:32:09+09:00"
   },
   {
     "ip": "111.206.4.163",
     "port": "18888",
     "protocol": "http",
-    "latency": 5432,
-    "timestamp": "2026-10-15T18:02:10+09:00"
+    "latency": 957,
+    "timestamp": "2026-10-15T18:32:10+09:00"
   },
   {
-    "ip": "176.118.147.83",
-    "port": "8080",
+    "ip": "124.83.124.181",
+    "port": "8082",
     "protocol": "http",
-    "latency": 6150,
-    "timestamp": "2026-10-15T18:02:11+09:00"
+    "latency": 8033,
+    "timestamp": "2026-10-15T18:32:11+09:00"
   },
   {
-    "ip": "103.151.74.29",
-    "port": "2025",
+    "ip": "118.179.155.202",
+    "port": "9090",
     "protocol": "socks5",
-    "latency": 3341,
-    "timestamp": "2026-10-15T18:02:11+09:00"
+    "latency": 8820,
+    "timestamp": "2026-10-15T18:32:13+09:00"
+  },
+  {
+    "ip": "196.204.80.108",
+    "port": "1981",
+    "protocol": "http",
+    "latency": 2693,
+    "timestamp": "2026-10-15T18:32:13+09:00"
+  },
+  {
+    "ip": "120.232.115.170",
+    "port": "17981",
+    "protocol": "http",
+    "latency": 604,
+    "timestamp": "2026-10-15T18:32:14+09:00"
+  },
+  {
+    "ip": "87.103.133.63",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 1772,
+    "timestamp": "2026-10-15T18:32:14+09:00"
   },
   {
     "ip": "123.58.219.171",
     "port": "10808",
     "protocol": "socks5",
-    "latency": 852,
-    "timestamp": "2026-10-15T18:02:11+09:00"
+    "latency": 671,
+    "timestamp": "2026-10-15T18:32:15+09:00"
   },
   {
-    "ip": "84.42.102.18",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 4103,
-    "timestamp": "2026-10-15T18:02:11+09:00"
+    "ip": "34.122.187.196",
+    "port": "80",
+    "protocol": "http",
+    "latency": 9183,
+    "timestamp": "2026-10-15T18:32:15+09:00"
   },
   {
     "ip": "195.26.224.135",
     "port": "80",
     "protocol": "http",
-    "latency": 646,
-    "timestamp": "2026-10-15T18:02:12+09:00"
+    "latency": 695,
+    "timestamp": "2026-10-15T18:32:17+09:00"
   },
   {
-    "ip": "148.251.68.232",
-    "port": "8888",
-    "protocol": "socks5",
-    "latency": 9952,
-    "timestamp": "2026-10-15T18:02:13+09:00"
-  },
-  {
-    "ip": "43.156.66.78",
-    "port": "12345",
+    "ip": "151.185.58.17",
+    "port": "80",
     "protocol": "http",
-    "latency": 8158,
-    "timestamp": "2026-10-15T18:02:13+09:00"
+    "latency": 4602,
+    "timestamp": "2026-10-15T18:32:17+09:00"
   },
   {
-    "ip": "160.19.146.173",
-    "port": "2022",
-    "protocol": "http",
-    "latency": 4094,
-    "timestamp": "2026-10-15T18:02:14+09:00"
-  },
-  {
-    "ip": "191.44.71.208",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 7057,
-    "timestamp": "2026-10-15T18:02:14+09:00"
-  },
-  {
-    "ip": "148.230.212.70",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 4724,
-    "timestamp": "2026-10-15T18:02:14+09:00"
-  },
-  {
-    "ip": "212.46.242.185",
+    "ip": "150.107.107.152",
     "port": "1080",
     "protocol": "socks4",
-    "latency": 6200,
-    "timestamp": "2026-10-15T18:02:15+09:00"
-  },
-  {
-    "ip": "116.204.166.48",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 5778,
-    "timestamp": "2026-10-15T18:02:16+09:00"
-  },
-  {
-    "ip": "5.75.133.113",
-    "port": "10801",
-    "protocol": "socks5",
-    "latency": 4594,
-    "timestamp": "2026-10-15T18:02:16+09:00"
+    "latency": 6705,
+    "timestamp": "2026-10-15T18:32:18+09:00"
   },
   {
     "ip": "8.211.49.86",
     "port": "20002",
     "protocol": "socks4",
-    "latency": 5693,
-    "timestamp": "2026-10-15T18:02:16+09:00"
+    "latency": 4885,
+    "timestamp": "2026-10-15T18:32:20+09:00"
   },
   {
-    "ip": "102.0.28.78",
-    "port": "8083",
+    "ip": "178.124.195.80",
+    "port": "8080",
     "protocol": "http",
-    "latency": 7100,
-    "timestamp": "2026-10-15T18:02:17+09:00"
+    "latency": 8040,
+    "timestamp": "2026-10-15T18:32:20+09:00"
   },
   {
     "ip": "94.78.67.171",
     "port": "80",
     "protocol": "http",
-    "latency": 585,
-    "timestamp": "2026-10-15T18:02:18+09:00"
+    "latency": 582,
+    "timestamp": "2026-10-15T18:32:23+09:00"
   },
   {
-    "ip": "36.95.142.35",
-    "port": "8080",
+    "ip": "190.26.209.122",
+    "port": "999",
     "protocol": "http",
-    "latency": 8396,
-    "timestamp": "2026-10-15T18:02:19+09:00"
-  },
-  {
-    "ip": "43.153.84.220",
-    "port": "9050",
-    "protocol": "socks5",
-    "latency": 3463,
-    "timestamp": "2026-10-15T18:02:20+09:00"
-  },
-  {
-    "ip": "89.43.133.165",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 2272,
-    "timestamp": "2026-10-15T18:02:21+09:00"
-  },
-  {
-    "ip": "58.254.153.146",
-    "port": "17981",
-    "protocol": "http",
-    "latency": 953,
-    "timestamp": "2026-10-15T18:02:21+09:00"
-  },
-  {
-    "ip": "181.204.4.74",
-    "port": "5678",
-    "protocol": "socks4",
-    "latency": 4979,
-    "timestamp": "2026-10-15T18:02:21+09:00"
-  },
-  {
-    "ip": "46.203.233.116",
-    "port": "3128",
-    "protocol": "http",
-    "latency": 7717,
-    "timestamp": "2026-10-15T18:02:21+09:00"
-  },
-  {
-    "ip": "180.191.142.94",
-    "port": "8081",
-    "protocol": "http",
-    "latency": 641,
-    "timestamp": "2026-10-15T18:02:21+09:00"
-  },
-  {
-    "ip": "154.208.58.89",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 8036,
-    "timestamp": "2026-10-15T18:02:21+09:00"
-  },
-  {
-    "ip": "49.145.58.197",
-    "port": "8082",
-    "protocol": "http",
-    "latency": 3595,
-    "timestamp": "2026-10-15T18:02:23+09:00"
+    "latency": 9017,
+    "timestamp": "2026-10-15T18:32:27+09:00"
   },
   {
     "ip": "8.215.15.163",
     "port": "8080",
     "protocol": "http",
-    "latency": 2201,
-    "timestamp": "2026-10-15T18:02:23+09:00"
-  },
-  {
-    "ip": "173.249.24.121",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1587,
-    "timestamp": "2026-10-15T18:02:23+09:00"
-  },
-  {
-    "ip": "49.147.103.170",
-    "port": "5050",
-    "protocol": "http",
-    "latency": 6312,
-    "timestamp": "2026-10-15T18:02:23+09:00"
-  },
-  {
-    "ip": "103.43.191.71",
-    "port": "8888",
-    "protocol": "http",
-    "latency": 674,
-    "timestamp": "2026-10-15T18:02:24+09:00"
-  },
-  {
-    "ip": "20.33.10.79",
-    "port": "80",
-    "protocol": "http",
-    "latency": 945,
-    "timestamp": "2026-10-15T18:02:24+09:00"
-  },
-  {
-    "ip": "103.152.148.19",
-    "port": "8282",
-    "protocol": "http",
-    "latency": 3032,
-    "timestamp": "2026-10-15T18:02:25+09:00"
-  },
-  {
-    "ip": "103.147.247.191",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 8688,
-    "timestamp": "2026-10-15T18:02:25+09:00"
-  },
-  {
-    "ip": "156.38.112.11",
-    "port": "80",
-    "protocol": "http",
-    "latency": 4117,
-    "timestamp": "2026-10-15T18:02:25+09:00"
-  },
-  {
-    "ip": "160.22.45.1",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 6485,
-    "timestamp": "2026-10-15T18:02:25+09:00"
-  },
-  {
-    "ip": "39.104.69.76",
-    "port": "2022",
-    "protocol": "http",
-    "latency": 2342,
-    "timestamp": "2026-10-15T18:02:26+09:00"
+    "latency": 2199,
+    "timestamp": "2026-10-15T18:32:27+09:00"
   },
   {
     "ip": "108.61.185.188",
     "port": "1080",
     "protocol": "socks4",
-    "latency": 7685,
-    "timestamp": "2026-10-15T18:02:27+09:00"
+    "latency": 2942,
+    "timestamp": "2026-10-15T18:32:27+09:00"
   },
   {
-    "ip": "213.35.111.243",
-    "port": "8899",
-    "protocol": "http",
-    "latency": 3839,
-    "timestamp": "2026-10-15T18:02:28+09:00"
-  },
-  {
-    "ip": "103.142.240.56",
+    "ip": "45.194.3.132",
     "port": "8080",
     "protocol": "http",
-    "latency": 6305,
-    "timestamp": "2026-10-15T18:02:29+09:00"
+    "latency": 825,
+    "timestamp": "2026-10-15T18:32:28+09:00"
   },
   {
-    "ip": "163.47.37.190",
-    "port": "1080",
+    "ip": "222.102.194.158",
+    "port": "1111",
     "protocol": "socks5",
-    "latency": 8355,
-    "timestamp": "2026-10-15T18:02:29+09:00"
+    "latency": 9830,
+    "timestamp": "2026-10-15T18:32:29+09:00"
   },
   {
-    "ip": "87.229.236.151",
+    "ip": "173.249.24.121",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 3600,
-    "timestamp": "2026-10-15T18:02:30+09:00"
+    "latency": 1981,
+    "timestamp": "2026-10-15T18:32:30+09:00"
+  },
+  {
+    "ip": "103.43.191.71",
+    "port": "8888",
+    "protocol": "http",
+    "latency": 1296,
+    "timestamp": "2026-10-15T18:32:31+09:00"
+  },
+  {
+    "ip": "80.92.227.185",
+    "port": "5678",
+    "protocol": "socks4",
+    "latency": 1061,
+    "timestamp": "2026-10-15T18:32:31+09:00"
+  },
+  {
+    "ip": "20.33.10.79",
+    "port": "80",
+    "protocol": "http",
+    "latency": 2062,
+    "timestamp": "2026-10-15T18:32:31+09:00"
+  },
+  {
+    "ip": "103.80.215.99",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 4794,
+    "timestamp": "2026-10-15T18:32:32+09:00"
+  },
+  {
+    "ip": "156.38.112.11",
+    "port": "80",
+    "protocol": "http",
+    "latency": 6775,
+    "timestamp": "2026-10-15T18:32:34+09:00"
+  },
+  {
+    "ip": "39.104.69.76",
+    "port": "2022",
+    "protocol": "http",
+    "latency": 3245,
+    "timestamp": "2026-10-15T18:32:34+09:00"
+  },
+  {
+    "ip": "49.145.55.76",
+    "port": "5050",
+    "protocol": "http",
+    "latency": 5879,
+    "timestamp": "2026-10-15T18:32:35+09:00"
   },
   {
     "ip": "183.106.215.208",
     "port": "1080",
     "protocol": "socks4",
-    "latency": 1501,
-    "timestamp": "2026-10-15T18:02:31+09:00"
+    "latency": 478,
+    "timestamp": "2026-10-15T18:32:36+09:00"
   },
   {
-    "ip": "180.191.229.193",
-    "port": "5050",
-    "protocol": "http",
-    "latency": 9284,
-    "timestamp": "2026-10-15T18:02:33+09:00"
+    "ip": "87.229.236.151",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 5066,
+    "timestamp": "2026-10-15T18:32:38+09:00"
   },
   {
-    "ip": "8.220.136.174",
-    "port": "5060",
+    "ip": "38.224.254.9",
+    "port": "999",
     "protocol": "http",
-    "latency": 2165,
-    "timestamp": "2026-10-15T18:02:35+09:00"
+    "latency": 9332,
+    "timestamp": "2026-10-15T18:32:38+09:00"
   },
   {
-    "ip": "202.58.77.195",
-    "port": "8080",
+    "ip": "177.52.221.115",
+    "port": "999",
     "protocol": "http",
-    "latency": 2696,
-    "timestamp": "2026-10-15T18:02:38+09:00"
+    "latency": 7233,
+    "timestamp": "2026-10-15T18:32:39+09:00"
   },
   {
-    "ip": "103.158.210.88",
-    "port": "8090",
+    "ip": "191.97.3.2",
+    "port": "999",
     "protocol": "http",
-    "latency": 4277,
-    "timestamp": "2026-10-15T18:02:38+09:00"
-  },
-  {
-    "ip": "14.225.2.98",
-    "port": "808",
-    "protocol": "http",
-    "latency": 2068,
-    "timestamp": "2026-10-15T18:02:39+09:00"
+    "latency": 7219,
+    "timestamp": "2026-10-15T18:32:39+09:00"
   },
   {
     "ip": "201.222.50.218",
     "port": "80",
     "protocol": "http",
-    "latency": 5736,
-    "timestamp": "2026-10-15T18:02:39+09:00"
+    "latency": 1288,
+    "timestamp": "2026-10-15T18:32:40+09:00"
+  },
+  {
+    "ip": "8.220.136.174",
+    "port": "5060",
+    "protocol": "http",
+    "latency": 2155,
+    "timestamp": "2026-10-15T18:32:41+09:00"
+  },
+  {
+    "ip": "103.173.162.49",
+    "port": "8818",
+    "protocol": "http",
+    "latency": 5476,
+    "timestamp": "2026-10-15T18:32:41+09:00"
+  },
+  {
+    "ip": "42.114.56.27",
+    "port": "20001",
+    "protocol": "socks4",
+    "latency": 7087,
+    "timestamp": "2026-10-15T18:32:42+09:00"
   },
   {
     "ip": "163.172.167.48",
     "port": "80",
     "protocol": "http",
-    "latency": 7908,
-    "timestamp": "2026-10-15T18:02:39+09:00"
+    "latency": 5870,
+    "timestamp": "2026-10-15T18:32:43+09:00"
+  },
+  {
+    "ip": "14.225.2.98",
+    "port": "808",
+    "protocol": "http",
+    "latency": 917,
+    "timestamp": "2026-10-15T18:32:43+09:00"
+  },
+  {
+    "ip": "168.227.239.66",
+    "port": "20000",
+    "protocol": "http",
+    "latency": 4321,
+    "timestamp": "2026-10-15T18:32:44+09:00"
+  },
+  {
+    "ip": "47.80.86.165",
+    "port": "10808",
+    "protocol": "http",
+    "latency": 4046,
+    "timestamp": "2026-10-15T18:32:44+09:00"
   },
   {
     "ip": "112.216.54.226",
     "port": "12121",
     "protocol": "http",
     "latency": 494,
-    "timestamp": "2026-10-15T18:02:39+09:00"
-  },
-  {
-    "ip": "125.25.167.164",
-    "port": "80",
-    "protocol": "http",
-    "latency": 3834,
-    "timestamp": "2026-10-15T18:02:40+09:00"
-  },
-  {
-    "ip": "110.39.15.206",
-    "port": "8082",
-    "protocol": "http",
-    "latency": 7553,
-    "timestamp": "2026-10-15T18:02:41+09:00"
-  },
-  {
-    "ip": "90.156.160.234",
-    "port": "3128",
-    "protocol": "http",
-    "latency": 1271,
-    "timestamp": "2026-10-15T18:02:44+09:00"
-  },
-  {
-    "ip": "72.205.0.93",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 1257,
-    "timestamp": "2026-10-15T18:02:44+09:00"
+    "timestamp": "2026-10-15T18:32:44+09:00"
   },
   {
     "ip": "123.253.145.165",
     "port": "8080",
     "protocol": "http",
-    "latency": 6371,
-    "timestamp": "2026-10-15T18:02:45+09:00"
+    "latency": 6713,
+    "timestamp": "2026-10-15T18:32:50+09:00"
   },
   {
-    "ip": "103.180.126.194",
-    "port": "8080",
+    "ip": "112.203.204.176",
+    "port": "8082",
     "protocol": "http",
-    "latency": 3789,
-    "timestamp": "2026-10-15T18:02:45+09:00"
+    "latency": 9720,
+    "timestamp": "2026-10-15T18:32:50+09:00"
   },
   {
-    "ip": "157.15.187.18",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 6916,
-    "timestamp": "2026-10-15T18:02:48+09:00"
+    "ip": "72.205.0.93",
+    "port": "4145",
+    "protocol": "socks5",
+    "latency": 961,
+    "timestamp": "2026-10-15T18:32:50+09:00"
   },
   {
-    "ip": "121.101.131.110",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 5034,
-    "timestamp": "2026-10-15T18:02:49+09:00"
-  },
-  {
-    "ip": "159.148.146.65",
-    "port": "5678",
+    "ip": "190.12.95.170",
+    "port": "37209",
     "protocol": "socks4",
-    "latency": 2164,
-    "timestamp": "2026-10-15T18:02:49+09:00"
+    "latency": 5133,
+    "timestamp": "2026-10-15T18:32:52+09:00"
+  },
+  {
+    "ip": "90.156.160.234",
+    "port": "3128",
+    "protocol": "http",
+    "latency": 3447,
+    "timestamp": "2026-10-15T18:32:52+09:00"
   },
   {
     "ip": "72.195.34.35",
     "port": "27360",
     "protocol": "socks5",
-    "latency": 973,
-    "timestamp": "2026-10-15T18:02:50+09:00"
-  },
-  {
-    "ip": "201.4.68.106",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 8022,
-    "timestamp": "2026-10-15T18:02:50+09:00"
-  },
-  {
-    "ip": "115.127.105.164",
-    "port": "6699",
-    "protocol": "http",
-    "latency": 9029,
-    "timestamp": "2026-10-15T18:02:50+09:00"
-  },
-  {
-    "ip": "219.65.73.80",
-    "port": "80",
-    "protocol": "http",
-    "latency": 1705,
-    "timestamp": "2026-10-15T18:02:51+09:00"
+    "latency": 980,
+    "timestamp": "2026-10-15T18:32:55+09:00"
   },
   {
     "ip": "172.247.27.29",
     "port": "11080",
     "protocol": "socks5",
-    "latency": 5870,
-    "timestamp": "2026-10-15T18:02:52+09:00"
-  },
-  {
-    "ip": "52.128.241.108",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 692,
-    "timestamp": "2026-10-15T18:02:52+09:00"
-  },
-  {
-    "ip": "185.185.50.157",
-    "port": "3128",
-    "protocol": "http",
-    "latency": 2194,
-    "timestamp": "2026-10-15T18:02:53+09:00"
-  },
-  {
-    "ip": "157.90.113.23",
-    "port": "9052",
-    "protocol": "socks5",
-    "latency": 1383,
-    "timestamp": "2026-10-15T18:02:53+09:00"
-  },
-  {
-    "ip": "180.194.14.117",
-    "port": "8081",
-    "protocol": "http",
-    "latency": 3655,
-    "timestamp": "2026-10-15T18:02:54+09:00"
-  },
-  {
-    "ip": "201.91.248.67",
-    "port": "20183",
-    "protocol": "http",
-    "latency": 8513,
-    "timestamp": "2026-10-15T18:02:54+09:00"
+    "latency": 3146,
+    "timestamp": "2026-10-15T18:32:55+09:00"
   },
   {
     "ip": "45.146.234.141",
     "port": "8080",
     "protocol": "http",
-    "latency": 7629,
-    "timestamp": "2026-10-15T18:02:54+09:00"
+    "latency": 3940,
+    "timestamp": "2026-10-15T18:32:56+09:00"
   },
   {
-    "ip": "122.246.4.30",
-    "port": "17981",
+    "ip": "202.4.123.220",
+    "port": "9090",
+    "protocol": "socks5",
+    "latency": 5861,
+    "timestamp": "2026-10-15T18:32:57+09:00"
+  },
+  {
+    "ip": "203.20.42.90",
+    "port": "8082",
     "protocol": "http",
+    "latency": 8886,
+    "timestamp": "2026-10-15T18:32:57+09:00"
+  },
+  {
+    "ip": "157.15.187.18",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 9476,
+    "timestamp": "2026-10-15T18:32:57+09:00"
+  },
+  {
+    "ip": "219.65.73.80",
+    "port": "80",
+    "protocol": "http",
+    "latency": 3271,
+    "timestamp": "2026-10-15T18:32:59+09:00"
+  },
+  {
+    "ip": "160.19.18.243",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 6095,
+    "timestamp": "2026-10-15T18:32:59+09:00"
+  },
+  {
+    "ip": "45.61.188.134",
+    "port": "44499",
+    "protocol": "socks5",
     "latency": 1264,
-    "timestamp": "2026-10-15T18:02:55+09:00"
+    "timestamp": "2026-10-15T18:33:02+09:00"
   },
   {
-    "ip": "124.6.164.229",
-    "port": "8085",
+    "ip": "103.151.20.131",
+    "port": "80",
     "protocol": "http",
-    "latency": 3291,
-    "timestamp": "2026-10-15T18:02:57+09:00"
+    "latency": 7355,
+    "timestamp": "2026-10-15T18:33:03+09:00"
   },
   {
     "ip": "103.46.8.85",
     "port": "8080",
     "protocol": "http",
-    "latency": 9384,
-    "timestamp": "2026-10-15T18:02:58+09:00"
+    "latency": 8053,
+    "timestamp": "2026-10-15T18:33:03+09:00"
   },
   {
-    "ip": "179.43.96.178",
-    "port": "8080",
+    "ip": "118.179.27.153",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 6021,
+    "timestamp": "2026-10-15T18:33:03+09:00"
+  },
+  {
+    "ip": "45.91.248.107",
+    "port": "80",
     "protocol": "http",
-    "latency": 7578,
-    "timestamp": "2026-10-15T18:02:59+09:00"
+    "latency": 408,
+    "timestamp": "2026-10-15T18:33:04+09:00"
+  },
+  {
+    "ip": "122.246.4.30",
+    "port": "17981",
+    "protocol": "http",
+    "latency": 2996,
+    "timestamp": "2026-10-15T18:33:04+09:00"
   },
   {
     "ip": "114.111.151.41",
     "port": "80",
     "protocol": "http",
-    "latency": 2499,
-    "timestamp": "2026-10-15T18:03:00+09:00"
-  },
-  {
-    "ip": "119.188.131.55",
-    "port": "17981",
-    "protocol": "http",
-    "latency": 866,
-    "timestamp": "2026-10-15T18:03:01+09:00"
-  },
-  {
-    "ip": "111.68.125.34",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 6299,
-    "timestamp": "2026-10-15T18:03:01+09:00"
-  },
-  {
-    "ip": "150.241.245.211",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 776,
-    "timestamp": "2026-10-15T18:03:02+09:00"
-  },
-  {
-    "ip": "45.174.243.24",
-    "port": "999",
-    "protocol": "http",
-    "latency": 7663,
-    "timestamp": "2026-10-15T18:03:02+09:00"
+    "latency": 3653,
+    "timestamp": "2026-10-15T18:33:07+09:00"
   },
   {
     "ip": "110.39.13.181",
     "port": "8080",
     "protocol": "http",
-    "latency": 8528,
-    "timestamp": "2026-10-15T18:03:02+09:00"
+    "latency": 6756,
+    "timestamp": "2026-10-15T18:33:08+09:00"
   },
   {
-    "ip": "103.232.67.58",
-    "port": "8080",
+    "ip": "80.225.250.95",
+    "port": "8888",
     "protocol": "http",
-    "latency": 3578,
-    "timestamp": "2026-10-15T18:03:02+09:00"
+    "latency": 6040,
+    "timestamp": "2026-10-15T18:33:08+09:00"
   },
   {
     "ip": "101.36.104.46",
     "port": "10808",
     "protocol": "socks5",
-    "latency": 615,
-    "timestamp": "2026-10-15T18:03:03+09:00"
+    "latency": 353,
+    "timestamp": "2026-10-15T18:33:11+09:00"
   },
   {
-    "ip": "210.211.113.33",
-    "port": "80",
-    "protocol": "http",
-    "latency": 1880,
-    "timestamp": "2026-10-15T18:03:05+09:00"
-  },
-  {
-    "ip": "119.63.130.153",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 8345,
-    "timestamp": "2026-10-15T18:03:05+09:00"
+    "ip": "195.123.166.125",
+    "port": "9050",
+    "protocol": "socks5",
+    "latency": 9938,
+    "timestamp": "2026-10-15T18:33:11+09:00"
   },
   {
     "ip": "80.74.54.148",
     "port": "3128",
     "protocol": "http",
-    "latency": 759,
-    "timestamp": "2026-10-15T18:03:05+09:00"
+    "latency": 669,
+    "timestamp": "2026-10-15T18:33:13+09:00"
   },
   {
-    "ip": "103.173.163.199",
-    "port": "8818",
+    "ip": "210.211.113.33",
+    "port": "80",
     "protocol": "http",
-    "latency": 5229,
-    "timestamp": "2026-10-15T18:03:07+09:00"
-  },
-  {
-    "ip": "187.249.84.147",
-    "port": "999",
-    "protocol": "http",
-    "latency": 4786,
-    "timestamp": "2026-10-15T18:03:07+09:00"
-  },
-  {
-    "ip": "8.220.205.172",
-    "port": "3749",
-    "protocol": "http",
-    "latency": 2132,
-    "timestamp": "2026-10-15T18:03:08+09:00"
+    "latency": 3256,
+    "timestamp": "2026-10-15T18:33:14+09:00"
   },
   {
     "ip": "123.60.155.1",
     "port": "3128",
     "protocol": "http",
-    "latency": 736,
-    "timestamp": "2026-10-15T18:03:08+09:00"
+    "latency": 705,
+    "timestamp": "2026-10-15T18:33:15+09:00"
   },
   {
-    "ip": "82.148.13.136",
-    "port": "80",
-    "protocol": "http",
-    "latency": 9720,
-    "timestamp": "2026-10-15T18:03:09+09:00"
+    "ip": "77.37.209.86",
+    "port": "1081",
+    "protocol": "socks5",
+    "latency": 5227,
+    "timestamp": "2026-10-15T18:33:15+09:00"
   },
   {
-    "ip": "77.240.102.149",
-    "port": "800",
+    "ip": "8.220.205.172",
+    "port": "3749",
     "protocol": "http",
-    "latency": 3756,
-    "timestamp": "2026-10-15T18:03:09+09:00"
-  },
-  {
-    "ip": "201.7.31.41",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 9401,
-    "timestamp": "2026-10-15T18:03:09+09:00"
+    "latency": 2128,
+    "timestamp": "2026-10-15T18:33:16+09:00"
   },
   {
     "ip": "47.251.73.54",
     "port": "8888",
     "protocol": "http",
-    "latency": 2226,
-    "timestamp": "2026-10-15T18:03:09+09:00"
+    "latency": 2223,
+    "timestamp": "2026-10-15T18:33:16+09:00"
   },
   {
-    "ip": "131.221.65.109",
-    "port": "8090",
-    "protocol": "http",
-    "latency": 2826,
-    "timestamp": "2026-10-15T18:03:09+09:00"
-  },
-  {
-    "ip": "103.89.27.32",
+    "ip": "43.240.83.70",
     "port": "8080",
     "protocol": "http",
-    "latency": 4292,
-    "timestamp": "2026-10-15T18:03:09+09:00"
+    "latency": 7717,
+    "timestamp": "2026-10-15T18:33:16+09:00"
+  },
+  {
+    "ip": "123.58.199.232",
+    "port": "8168",
+    "protocol": "http",
+    "latency": 748,
+    "timestamp": "2026-10-15T18:33:17+09:00"
   },
   {
     "ip": "101.36.104.239",
     "port": "10808",
     "protocol": "socks5",
-    "latency": 383,
-    "timestamp": "2026-10-15T18:03:10+09:00"
-  },
-  {
-    "ip": "113.192.12.4",
-    "port": "3333",
-    "protocol": "http",
-    "latency": 7360,
-    "timestamp": "2026-10-15T18:03:11+09:00"
-  },
-  {
-    "ip": "104.200.135.46",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 600,
-    "timestamp": "2026-10-15T18:03:11+09:00"
-  },
-  {
-    "ip": "179.48.11.6",
-    "port": "8085",
-    "protocol": "http",
-    "latency": 8620,
-    "timestamp": "2026-10-15T18:03:13+09:00"
+    "latency": 514,
+    "timestamp": "2026-10-15T18:33:18+09:00"
   },
   {
     "ip": "42.112.52.54",
     "port": "20001",
     "protocol": "socks4",
-    "latency": 4173,
-    "timestamp": "2026-10-15T18:03:13+09:00"
+    "latency": 1574,
+    "timestamp": "2026-10-15T18:33:19+09:00"
+  },
+  {
+    "ip": "104.200.135.46",
+    "port": "4145",
+    "protocol": "socks5",
+    "latency": 792,
+    "timestamp": "2026-10-15T18:33:20+09:00"
+  },
+  {
+    "ip": "103.154.76.169",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 6885,
+    "timestamp": "2026-10-15T18:33:20+09:00"
   },
   {
     "ip": "47.254.36.213",
     "port": "8888",
     "protocol": "socks5",
-    "latency": 6227,
-    "timestamp": "2026-10-15T18:03:14+09:00"
+    "latency": 6225,
+    "timestamp": "2026-10-15T18:33:20+09:00"
   },
   {
-    "ip": "165.101.231.107",
-    "port": "8181",
+    "ip": "176.88.166.176",
+    "port": "8080",
     "protocol": "http",
-    "latency": 4871,
-    "timestamp": "2026-10-15T18:03:14+09:00"
+    "latency": 6080,
+    "timestamp": "2026-10-15T18:33:21+09:00"
+  },
+  {
+    "ip": "38.194.236.106",
+    "port": "999",
+    "protocol": "http",
+    "latency": 3747,
+    "timestamp": "2026-10-15T18:33:22+09:00"
   },
   {
     "ip": "165.99.102.66",
     "port": "1452",
     "protocol": "http",
-    "latency": 7170,
-    "timestamp": "2026-10-15T18:03:16+09:00"
+    "latency": 7372,
+    "timestamp": "2026-10-15T18:33:23+09:00"
   },
   {
     "ip": "41.128.72.139",
     "port": "1976",
     "protocol": "http",
-    "latency": 5351,
-    "timestamp": "2026-10-15T18:03:17+09:00"
-  },
-  {
-    "ip": "209.14.113.2",
-    "port": "999",
-    "protocol": "http",
-    "latency": 6549,
-    "timestamp": "2026-10-15T18:03:17+09:00"
-  },
-  {
-    "ip": "175.145.9.218",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 7848,
-    "timestamp": "2026-10-15T18:03:19+09:00"
-  },
-  {
-    "ip": "103.172.42.93",
-    "port": "1111",
-    "protocol": "http",
-    "latency": 3474,
-    "timestamp": "2026-10-15T18:03:19+09:00"
+    "latency": 2766,
+    "timestamp": "2026-10-15T18:33:23+09:00"
   },
   {
     "ip": "122.246.3.12",
     "port": "17981",
     "protocol": "http",
-    "latency": 1205,
-    "timestamp": "2026-10-15T18:03:20+09:00"
+    "latency": 938,
+    "timestamp": "2026-10-15T18:33:27+09:00"
   },
   {
-    "ip": "104.129.203.85",
-    "port": "9480",
-    "protocol": "http",
-    "latency": 483,
-    "timestamp": "2026-10-15T18:03:21+09:00"
-  },
-  {
-    "ip": "119.73.109.210",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 7183,
-    "timestamp": "2026-10-15T18:03:22+09:00"
-  },
-  {
-    "ip": "45.167.125.4",
+    "ip": "45.225.207.172",
     "port": "999",
     "protocol": "http",
-    "latency": 3238,
-    "timestamp": "2026-10-15T18:03:23+09:00"
+    "latency": 2440,
+    "timestamp": "2026-10-15T18:33:28+09:00"
   },
   {
     "ip": "185.85.111.18",
     "port": "80",
     "protocol": "http",
-    "latency": 4441,
-    "timestamp": "2026-10-15T18:03:23+09:00"
+    "latency": 4305,
+    "timestamp": "2026-10-15T18:33:30+09:00"
   },
   {
     "ip": "8.211.195.139",
     "port": "20002",
     "protocol": "socks4",
-    "latency": 3487,
-    "timestamp": "2026-10-15T18:03:24+09:00"
+    "latency": 3508,
+    "timestamp": "2026-10-15T18:33:32+09:00"
   },
   {
-    "ip": "103.193.144.251",
+    "ip": "119.73.109.210",
     "port": "8080",
     "protocol": "http",
-    "latency": 4224,
-    "timestamp": "2026-10-15T18:03:24+09:00"
-  },
-  {
-    "ip": "102.66.8.18",
-    "port": "9999",
-    "protocol": "http",
-    "latency": 9272,
-    "timestamp": "2026-10-15T18:03:24+09:00"
-  },
-  {
-    "ip": "45.180.26.1",
-    "port": "999",
-    "protocol": "http",
-    "latency": 6751,
-    "timestamp": "2026-10-15T18:03:25+09:00"
+    "latency": 9904,
+    "timestamp": "2026-10-15T18:33:33+09:00"
   },
   {
     "ip": "47.252.18.37",
     "port": "14186",
     "protocol": "socks5",
-    "latency": 6358,
-    "timestamp": "2026-10-15T18:03:25+09:00"
-  },
-  {
-    "ip": "113.23.230.90",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 7101,
-    "timestamp": "2026-10-15T18:03:26+09:00"
-  },
-  {
-    "ip": "113.192.48.82",
-    "port": "8080",
-    "protocol": "http",
-    "latency": 4327,
-    "timestamp": "2026-10-15T18:03:26+09:00"
+    "latency": 6355,
+    "timestamp": "2026-10-15T18:33:33+09:00"
   },
   {
     "ip": "47.91.109.17",
     "port": "1337",
     "protocol": "socks4",
-    "latency": 3469,
-    "timestamp": "2026-10-15T18:03:26+09:00"
+    "latency": 3500,
+    "timestamp": "2026-10-15T18:33:34+09:00"
+  },
+  {
+    "ip": "113.23.230.90",
+    "port": "8080",
+    "protocol": "http",
+    "latency": 7896,
+    "timestamp": "2026-10-15T18:33:35+09:00"
   },
   {
     "ip": "47.250.177.202",
     "port": "20000",
     "protocol": "socks4",
-    "latency": 3192,
-    "timestamp": "2026-10-15T18:03:27+09:00"
+    "latency": 3188,
+    "timestamp": "2026-10-15T18:33:35+09:00"
   },
   {
-    "ip": "103.66.62.177",
+    "ip": "160.19.19.31",
     "port": "8080",
     "protocol": "http",
-    "latency": 6107,
-    "timestamp": "2026-10-15T18:03:29+09:00"
+    "latency": 2747,
+    "timestamp": "2026-10-15T18:33:36+09:00"
+  },
+  {
+    "ip": "103.172.42.37",
+    "port": "1111",
+    "protocol": "http",
+    "latency": 5212,
+    "timestamp": "2026-10-15T18:33:36+09:00"
+  },
+  {
+    "ip": "46.146.216.44",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 2192,
+    "timestamp": "2026-10-15T18:33:36+09:00"
   },
   {
     "ip": "154.201.127.230",
     "port": "8080",
     "protocol": "http",
-    "latency": 1030,
-    "timestamp": "2026-10-15T18:03:30+09:00"
+    "latency": 878,
+    "timestamp": "2026-10-15T18:33:38+09:00"
   },
   {
     "ip": "80.241.251.54",
     "port": "8080",
     "protocol": "http",
-    "latency": 2599,
-    "timestamp": "2026-10-15T18:03:30+09:00"
+    "latency": 2914,
+    "timestamp": "2026-10-15T18:33:38+09:00"
   },
   {
-    "ip": "34.81.160.132",
-    "port": "80",
-    "protocol": "http",
-    "latency": 450,
-    "timestamp": "2026-10-15T18:03:31+09:00"
+    "ip": "186.26.95.249",
+    "port": "61445",
+    "protocol": "socks5",
+    "latency": 5529,
+    "timestamp": "2026-10-15T18:33:38+09:00"
   },
   {
-    "ip": "201.165.164.22",
-    "port": "999",
+    "ip": "160.19.19.9",
+    "port": "8080",
     "protocol": "http",
-    "latency": 6482,
-    "timestamp": "2026-10-15T18:03:32+09:00"
-  },
-  {
-    "ip": "185.27.144.74",
-    "port": "999",
-    "protocol": "http",
-    "latency": 3567,
-    "timestamp": "2026-10-15T18:03:32+09:00"
+    "latency": 6933,
+    "timestamp": "2026-10-15T18:33:40+09:00"
   },
   {
     "ip": "163.172.53.142",
     "port": "80",
     "protocol": "http",
-    "latency": 3971,
-    "timestamp": "2026-10-15T18:03:33+09:00"
+    "latency": 3329,
+    "timestamp": "2026-10-15T18:33:41+09:00"
   },
   {
     "ip": "72.195.34.42",
     "port": "4145",
     "protocol": "socks5",
-    "latency": 978,
-    "timestamp": "2026-10-15T18:03:33+09:00"
+    "latency": 1236,
+    "timestamp": "2026-10-15T18:33:42+09:00"
   },
   {
-    "ip": "2.139.41.14",
-    "port": "3128",
+    "ip": "38.7.22.165",
+    "port": "999",
     "protocol": "http",
-    "latency": 6950,
-    "timestamp": "2026-10-15T18:03:33+09:00"
+    "latency": 5037,
+    "timestamp": "2026-10-15T18:33:43+09:00"
   },
   {
-    "ip": "203.99.54.238",
-    "port": "8090",
-    "protocol": "http",
-    "latency": 3659,
-    "timestamp": "2026-10-15T18:03:34+09:00"
-  },
-  {
-    "ip": "5.255.123.162",
+    "ip": "46.241.57.29",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 8631,
-    "timestamp": "2026-10-15T18:03:35+09:00"
+    "latency": 1931,
+    "timestamp": "2026-10-15T18:33:44+09:00"
   },
   {
-    "ip": "61.247.178.178",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1050,
-    "timestamp": "2026-10-15T18:03:35+09:00"
-  },
-  {
-    "ip": "118.70.151.55",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 2824,
-    "timestamp": "2026-10-15T18:03:36+09:00"
-  },
-  {
-    "ip": "203.99.63.97",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1727,
-    "timestamp": "2026-10-15T18:03:36+09:00"
-  },
-  {
-    "ip": "42.112.52.239",
-    "port": "20001",
-    "protocol": "socks5",
-    "latency": 2173,
-    "timestamp": "2026-10-15T18:03:37+09:00"
-  },
-  {
-    "ip": "95.87.73.121",
+    "ip": "103.138.14.29",
     "port": "8080",
     "protocol": "http",
-    "latency": 9548,
-    "timestamp": "2026-10-15T18:03:38+09:00"
+    "latency": 6366,
+    "timestamp": "2026-10-15T18:33:44+09:00"
   },
   {
-    "ip": "93.153.222.83",
-    "port": "1080",
+    "ip": "103.174.122.197",
+    "port": "8199",
     "protocol": "socks5",
-    "latency": 2397,
-    "timestamp": "2026-10-15T18:03:38+09:00"
-  },
-  {
-    "ip": "5.255.103.55",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 5525,
-    "timestamp": "2026-10-15T18:03:39+09:00"
-  },
-  {
-    "ip": "130.255.94.32",
-    "port": "5080",
-    "protocol": "socks5",
-    "latency": 5729,
-    "timestamp": "2026-10-15T18:03:39+09:00"
+    "latency": 3266,
+    "timestamp": "2026-10-15T18:33:44+09:00"
   },
   {
     "ip": "160.187.0.89",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 5204,
-    "timestamp": "2026-10-15T18:03:39+09:00"
+    "latency": 1793,
+    "timestamp": "2026-10-15T18:33:45+09:00"
   },
   {
-    "ip": "109.95.175.64",
+    "ip": "93.153.222.83",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 3517,
-    "timestamp": "2026-10-15T18:03:40+09:00"
+    "latency": 2316,
+    "timestamp": "2026-10-15T18:33:47+09:00"
+  },
+  {
+    "ip": "42.112.52.239",
+    "port": "20001",
+    "protocol": "socks5",
+    "latency": 3100,
+    "timestamp": "2026-10-15T18:33:47+09:00"
+  },
+  {
+    "ip": "34.81.160.132",
+    "port": "80",
+    "protocol": "http",
+    "latency": 8003,
+    "timestamp": "2026-10-15T18:33:47+09:00"
+  },
+  {
+    "ip": "223.25.109.163",
+    "port": "8199",
+    "protocol": "socks5",
+    "latency": 6256,
+    "timestamp": "2026-10-15T18:33:48+09:00"
+  },
+  {
+    "ip": "164.77.99.83",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 1595,
+    "timestamp": "2026-10-15T18:33:48+09:00"
   },
   {
     "ip": "35.212.147.127",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 1674,
-    "timestamp": "2026-10-15T18:03:40+09:00"
+    "latency": 1656,
+    "timestamp": "2026-10-15T18:33:49+09:00"
+  },
+  {
+    "ip": "116.97.240.124",
+    "port": "1543",
+    "protocol": "socks5",
+    "latency": 2979,
+    "timestamp": "2026-10-15T18:33:49+09:00"
+  },
+  {
+    "ip": "194.9.233.171",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 4665,
+    "timestamp": "2026-10-15T18:33:49+09:00"
   },
   {
     "ip": "152.67.22.144",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 2252,
-    "timestamp": "2026-10-15T18:03:41+09:00"
-  },
-  {
-    "ip": "194.85.11.60",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 5119,
-    "timestamp": "2026-10-15T18:03:42+09:00"
-  },
-  {
-    "ip": "46.180.156.142",
-    "port": "10800",
-    "protocol": "socks5",
-    "latency": 3333,
-    "timestamp": "2026-10-15T18:03:42+09:00"
-  },
-  {
-    "ip": "117.244.114.54",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1177,
-    "timestamp": "2026-10-15T18:03:43+09:00"
-  },
-  {
-    "ip": "72.195.34.58",
-    "port": "4145",
-    "protocol": "socks5",
-    "latency": 1221,
-    "timestamp": "2026-10-15T18:03:43+09:00"
-  },
-  {
-    "ip": "139.59.1.14",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 741,
-    "timestamp": "2026-10-15T18:03:44+09:00"
-  },
-  {
-    "ip": "47.251.87.74",
-    "port": "1036",
-    "protocol": "socks5",
-    "latency": 6229,
-    "timestamp": "2026-10-15T18:03:45+09:00"
-  },
-  {
-    "ip": "47.91.29.151",
-    "port": "3128",
-    "protocol": "socks5",
-    "latency": 6046,
-    "timestamp": "2026-10-15T18:03:45+09:00"
-  },
-  {
-    "ip": "202.62.42.167",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1112,
-    "timestamp": "2026-10-15T18:03:46+09:00"
+    "latency": 3982,
+    "timestamp": "2026-10-15T18:33:51+09:00"
   },
   {
     "ip": "118.71.140.246",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 4937,
-    "timestamp": "2026-10-15T18:03:46+09:00"
+    "latency": 1792,
+    "timestamp": "2026-10-15T18:33:51+09:00"
   },
   {
-    "ip": "95.31.52.151",
+    "ip": "72.195.34.58",
+    "port": "4145",
+    "protocol": "socks5",
+    "latency": 1301,
+    "timestamp": "2026-10-15T18:33:52+09:00"
+  },
+  {
+    "ip": "139.59.1.14",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 2497,
-    "timestamp": "2026-10-15T18:03:46+09:00"
+    "latency": 675,
+    "timestamp": "2026-10-15T18:33:52+09:00"
   },
   {
-    "ip": "42.114.69.91",
-    "port": "20001",
+    "ip": "46.180.156.142",
+    "port": "10800",
     "protocol": "socks5",
-    "latency": 4517,
-    "timestamp": "2026-10-15T18:03:47+09:00"
+    "latency": 6026,
+    "timestamp": "2026-10-15T18:33:54+09:00"
   },
   {
-    "ip": "195.98.82.63",
+    "ip": "47.251.87.74",
+    "port": "1036",
+    "protocol": "socks5",
+    "latency": 6249,
+    "timestamp": "2026-10-15T18:33:54+09:00"
+  },
+  {
+    "ip": "47.91.29.151",
+    "port": "3128",
+    "protocol": "socks5",
+    "latency": 6028,
+    "timestamp": "2026-10-15T18:33:54+09:00"
+  },
+  {
+    "ip": "117.244.114.54",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 3140,
-    "timestamp": "2026-10-15T18:03:47+09:00"
-  },
-  {
-    "ip": "213.176.74.119",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 2221,
-    "timestamp": "2026-10-15T18:03:48+09:00"
-  },
-  {
-    "ip": "87.228.102.241",
-    "port": "40001",
-    "protocol": "socks5",
-    "latency": 9761,
-    "timestamp": "2026-10-15T18:03:48+09:00"
-  },
-  {
-    "ip": "203.76.123.6",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 3118,
-    "timestamp": "2026-10-15T18:03:49+09:00"
-  },
-  {
-    "ip": "141.148.8.171",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 8319,
-    "timestamp": "2026-10-15T18:03:49+09:00"
+    "latency": 5194,
+    "timestamp": "2026-10-15T18:33:55+09:00"
   },
   {
     "ip": "47.252.11.233",
     "port": "8181",
     "protocol": "socks5",
-    "latency": 7622,
-    "timestamp": "2026-10-15T18:03:49+09:00"
+    "latency": 6348,
+    "timestamp": "2026-10-15T18:33:56+09:00"
   },
   {
     "ip": "8.210.17.35",
     "port": "8082",
     "protocol": "socks5",
-    "latency": 6099,
-    "timestamp": "2026-10-15T18:03:50+09:00"
-  },
-  {
-    "ip": "188.32.80.88",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 6754,
-    "timestamp": "2026-10-15T18:03:50+09:00"
-  },
-  {
-    "ip": "103.142.255.32",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 2149,
-    "timestamp": "2026-10-15T18:03:50+09:00"
+    "latency": 6107,
+    "timestamp": "2026-10-15T18:33:57+09:00"
   },
   {
     "ip": "103.180.123.111",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 5172,
-    "timestamp": "2026-10-15T18:03:51+09:00"
+    "latency": 3971,
+    "timestamp": "2026-10-15T18:33:58+09:00"
   },
   {
-    "ip": "149.129.255.179",
-    "port": "6666",
+    "ip": "176.195.18.41",
+    "port": "1080",
     "protocol": "socks5",
-    "latency": 6200,
-    "timestamp": "2026-10-15T18:03:51+09:00"
-  },
-  {
-    "ip": "103.191.218.119",
-    "port": "69",
-    "protocol": "socks5",
-    "latency": 924,
-    "timestamp": "2026-10-15T18:03:52+09:00"
-  },
-  {
-    "ip": "103.176.187.228",
-    "port": "9090",
-    "protocol": "socks5",
-    "latency": 2189,
-    "timestamp": "2026-10-15T18:03:52+09:00"
+    "latency": 5714,
+    "timestamp": "2026-10-15T18:33:58+09:00"
   },
   {
     "ip": "90.154.61.187",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 8553,
-    "timestamp": "2026-10-15T18:03:52+09:00"
+    "latency": 6497,
+    "timestamp": "2026-10-15T18:33:58+09:00"
+  },
+  {
+    "ip": "138.199.222.72",
+    "port": "9050",
+    "protocol": "socks5",
+    "latency": 4168,
+    "timestamp": "2026-10-15T18:33:58+09:00"
+  },
+  {
+    "ip": "45.77.80.6",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 7861,
+    "timestamp": "2026-10-15T18:33:58+09:00"
+  },
+  {
+    "ip": "195.98.82.63",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 5772,
+    "timestamp": "2026-10-15T18:33:59+09:00"
+  },
+  {
+    "ip": "149.129.255.179",
+    "port": "6666",
+    "protocol": "socks5",
+    "latency": 6208,
+    "timestamp": "2026-10-15T18:33:59+09:00"
+  },
+  {
+    "ip": "103.176.187.228",
+    "port": "9090",
+    "protocol": "socks5",
+    "latency": 1074,
+    "timestamp": "2026-10-15T18:33:59+09:00"
+  },
+  {
+    "ip": "31.211.142.115",
+    "port": "8192",
+    "protocol": "socks5",
+    "latency": 1528,
+    "timestamp": "2026-10-15T18:34:00+09:00"
+  },
+  {
+    "ip": "185.9.73.44",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 5576,
+    "timestamp": "2026-10-15T18:34:00+09:00"
   },
   {
     "ip": "47.251.87.199",
     "port": "8031",
     "protocol": "socks5",
-    "latency": 6219,
-    "timestamp": "2026-10-15T18:03:53+09:00"
-  },
-  {
-    "ip": "95.165.108.201",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 2418,
-    "timestamp": "2026-10-15T18:03:54+09:00"
+    "latency": 6234,
+    "timestamp": "2026-10-15T18:34:02+09:00"
   },
   {
     "ip": "8.215.3.250",
     "port": "4002",
     "protocol": "socks5",
-    "latency": 6766,
-    "timestamp": "2026-10-15T18:03:54+09:00"
+    "latency": 6204,
+    "timestamp": "2026-10-15T18:34:02+09:00"
   },
   {
-    "ip": "118.179.144.113",
-    "port": "9090",
+    "ip": "193.107.75.242",
+    "port": "33500",
     "protocol": "socks5",
-    "latency": 6440,
-    "timestamp": "2026-10-15T18:03:54+09:00"
+    "latency": 3427,
+    "timestamp": "2026-10-15T18:34:02+09:00"
   },
   {
-    "ip": "103.248.47.230",
-    "port": "1080",
+    "ip": "103.39.49.101",
+    "port": "1082",
     "protocol": "socks5",
-    "latency": 4992,
-    "timestamp": "2026-10-15T18:03:55+09:00"
-  },
-  {
-    "ip": "181.94.197.37",
-    "port": "13049",
-    "protocol": "socks5",
-    "latency": 8825,
-    "timestamp": "2026-10-15T18:03:55+09:00"
+    "latency": 5070,
+    "timestamp": "2026-10-15T18:34:03+09:00"
   },
   {
     "ip": "134.175.238.113",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 2057,
-    "timestamp": "2026-10-15T18:03:56+09:00"
+    "latency": 2048,
+    "timestamp": "2026-10-15T18:34:04+09:00"
   },
   {
-    "ip": "110.235.240.223",
+    "ip": "124.248.177.44",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 6035,
-    "timestamp": "2026-10-15T18:03:56+09:00"
+    "latency": 9450,
+    "timestamp": "2026-10-15T18:34:04+09:00"
   },
   {
-    "ip": "109.111.79.212",
-    "port": "2080",
+    "ip": "123.0.24.154",
+    "port": "9090",
     "protocol": "socks5",
-    "latency": 5543,
-    "timestamp": "2026-10-15T18:03:56+09:00"
-  },
-  {
-    "ip": "194.186.5.21",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 6128,
-    "timestamp": "2026-10-15T18:03:57+09:00"
+    "latency": 6189,
+    "timestamp": "2026-10-15T18:34:05+09:00"
   },
   {
     "ip": "103.151.42.242",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 2360,
-    "timestamp": "2026-10-15T18:03:57+09:00"
-  },
-  {
-    "ip": "95.170.122.80",
-    "port": "2080",
-    "protocol": "socks5",
-    "latency": 3745,
-    "timestamp": "2026-10-15T18:03:58+09:00"
-  },
-  {
-    "ip": "110.39.151.50",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1252,
-    "timestamp": "2026-10-15T18:03:58+09:00"
+    "latency": 1385,
+    "timestamp": "2026-10-15T18:34:06+09:00"
   },
   {
     "ip": "188.17.153.86",
     "port": "11080",
     "protocol": "socks5",
-    "latency": 4662,
-    "timestamp": "2026-10-15T18:03:59+09:00"
+    "latency": 2751,
+    "timestamp": "2026-10-15T18:34:06+09:00"
+  },
+  {
+    "ip": "58.84.31.66",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 2085,
+    "timestamp": "2026-10-15T18:34:06+09:00"
   },
   {
     "ip": "31.41.227.175",
     "port": "2080",
     "protocol": "socks5",
-    "latency": 5612,
-    "timestamp": "2026-10-15T18:04:00+09:00"
+    "latency": 3531,
+    "timestamp": "2026-10-15T18:34:06+09:00"
   },
   {
-    "ip": "134.195.196.161",
-    "port": "40000",
-    "protocol": "socks5",
-    "latency": 763,
-    "timestamp": "2026-10-15T18:04:01+09:00"
-  },
-  {
-    "ip": "82.196.69.34",
+    "ip": "213.219.210.45",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 2360,
-    "timestamp": "2026-10-15T18:04:01+09:00"
-  },
-  {
-    "ip": "132.243.168.30",
-    "port": "9150",
-    "protocol": "socks5",
-    "latency": 1561,
-    "timestamp": "2026-10-15T18:04:01+09:00"
-  },
-  {
-    "ip": "223.25.110.37",
-    "port": "8199",
-    "protocol": "socks5",
-    "latency": 1004,
-    "timestamp": "2026-10-15T18:04:02+09:00"
-  },
-  {
-    "ip": "194.44.255.112",
-    "port": "8090",
-    "protocol": "socks5",
-    "latency": 8581,
-    "timestamp": "2026-10-15T18:04:02+09:00"
+    "latency": 2104,
+    "timestamp": "2026-10-15T18:34:07+09:00"
   },
   {
     "ip": "119.148.20.109",
     "port": "22122",
     "protocol": "socks5",
-    "latency": 7455,
-    "timestamp": "2026-10-15T18:04:04+09:00"
+    "latency": 2407,
+    "timestamp": "2026-10-15T18:34:08+09:00"
+  },
+  {
+    "ip": "223.25.109.146",
+    "port": "8199",
+    "protocol": "socks5",
+    "latency": 6525,
+    "timestamp": "2026-10-15T18:34:11+09:00"
   },
   {
     "ip": "47.251.74.38",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 8005,
-    "timestamp": "2026-10-15T18:04:04+09:00"
-  },
-  {
-    "ip": "72.195.34.60",
-    "port": "27391",
-    "protocol": "socks5",
-    "latency": 993,
-    "timestamp": "2026-10-15T18:04:05+09:00"
-  },
-  {
-    "ip": "202.4.101.249",
-    "port": "9090",
-    "protocol": "socks5",
-    "latency": 2242,
-    "timestamp": "2026-10-15T18:04:05+09:00"
-  },
-  {
-    "ip": "45.76.104.147",
-    "port": "40001",
-    "protocol": "socks5",
-    "latency": 3629,
-    "timestamp": "2026-10-15T18:04:05+09:00"
-  },
-  {
-    "ip": "161.35.70.249",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1432,
-    "timestamp": "2026-10-15T18:04:06+09:00"
+    "latency": 6232,
+    "timestamp": "2026-10-15T18:34:11+09:00"
   },
   {
     "ip": "77.51.182.67",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 5235,
-    "timestamp": "2026-10-15T18:04:06+09:00"
+    "latency": 1895,
+    "timestamp": "2026-10-15T18:34:13+09:00"
   },
   {
-    "ip": "150.136.58.221",
+    "ip": "72.195.34.60",
+    "port": "27391",
+    "protocol": "socks5",
+    "latency": 1334,
+    "timestamp": "2026-10-15T18:34:14+09:00"
+  },
+  {
+    "ip": "161.35.70.249",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 5915,
-    "timestamp": "2026-10-15T18:04:07+09:00"
+    "latency": 1598,
+    "timestamp": "2026-10-15T18:34:15+09:00"
   },
   {
-    "ip": "120.39.48.225",
-    "port": "10888",
-    "protocol": "socks5",
-    "latency": 5258,
-    "timestamp": "2026-10-15T18:04:09+09:00"
-  },
-  {
-    "ip": "202.62.52.20",
+    "ip": "110.39.151.50",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 2906,
-    "timestamp": "2026-10-15T18:04:10+09:00"
+    "latency": 8468,
+    "timestamp": "2026-10-15T18:34:15+09:00"
+  },
+  {
+    "ip": "42.112.52.62",
+    "port": "20001",
+    "protocol": "socks5",
+    "latency": 4694,
+    "timestamp": "2026-10-15T18:34:18+09:00"
+  },
+  {
+    "ip": "42.112.52.66",
+    "port": "20001",
+    "protocol": "socks5",
+    "latency": 4673,
+    "timestamp": "2026-10-15T18:34:19+09:00"
   },
   {
     "ip": "91.92.155.207",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 1511,
-    "timestamp": "2026-10-15T18:04:10+09:00"
-  },
-  {
-    "ip": "103.55.63.14",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 8630,
-    "timestamp": "2026-10-15T18:04:11+09:00"
+    "latency": 1997,
+    "timestamp": "2026-10-15T18:34:21+09:00"
   },
   {
     "ip": "8.213.195.191",
     "port": "30000",
     "protocol": "socks5",
-    "latency": 6218,
-    "timestamp": "2026-10-15T18:04:12+09:00"
+    "latency": 6213,
+    "timestamp": "2026-10-15T18:34:21+09:00"
+  },
+  {
+    "ip": "202.62.52.20",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 4087,
+    "timestamp": "2026-10-15T18:34:21+09:00"
+  },
+  {
+    "ip": "112.169.210.64",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 719,
+    "timestamp": "2026-10-15T18:34:21+09:00"
+  },
+  {
+    "ip": "193.200.85.129",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 8500,
+    "timestamp": "2026-10-15T18:34:22+09:00"
+  },
+  {
+    "ip": "83.237.82.146",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 1402,
+    "timestamp": "2026-10-15T18:34:23+09:00"
+  },
+  {
+    "ip": "27.54.121.90",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 4055,
+    "timestamp": "2026-10-15T18:34:25+09:00"
   },
   {
     "ip": "8.220.204.92",
     "port": "19",
     "protocol": "socks5",
-    "latency": 6138,
-    "timestamp": "2026-10-15T18:04:15+09:00"
+    "latency": 6130,
+    "timestamp": "2026-10-15T18:34:25+09:00"
   },
   {
     "ip": "8.221.138.111",
     "port": "19",
     "protocol": "socks5",
-    "latency": 6027,
-    "timestamp": "2026-10-15T18:04:18+09:00"
-  },
-  {
-    "ip": "8.213.222.157",
-    "port": "8080",
-    "protocol": "socks5",
-    "latency": 6213,
-    "timestamp": "2026-10-15T18:04:18+09:00"
-  },
-  {
-    "ip": "8.215.12.103",
-    "port": "8085",
-    "protocol": "socks5",
-    "latency": 6202,
-    "timestamp": "2026-10-15T18:04:18+09:00"
+    "latency": 6032,
+    "timestamp": "2026-10-15T18:34:27+09:00"
   },
   {
     "ip": "90.8.144.108",
     "port": "3317",
     "protocol": "socks5",
-    "latency": 9167,
-    "timestamp": "2026-10-15T18:04:18+09:00"
+    "latency": 8627,
+    "timestamp": "2026-10-15T18:34:27+09:00"
+  },
+  {
+    "ip": "8.213.222.157",
+    "port": "8080",
+    "protocol": "socks5",
+    "latency": 6216,
+    "timestamp": "2026-10-15T18:34:27+09:00"
+  },
+  {
+    "ip": "212.103.116.73",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 5394,
+    "timestamp": "2026-10-15T18:34:27+09:00"
+  },
+  {
+    "ip": "8.215.12.103",
+    "port": "8085",
+    "protocol": "socks5",
+    "latency": 6592,
+    "timestamp": "2026-10-15T18:34:28+09:00"
+  },
+  {
+    "ip": "212.46.194.203",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 3462,
+    "timestamp": "2026-10-15T18:34:28+09:00"
   },
   {
     "ip": "195.19.50.135",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 2107,
-    "timestamp": "2026-10-15T18:04:19+09:00"
+    "latency": 2633,
+    "timestamp": "2026-10-15T18:34:28+09:00"
   },
   {
-    "ip": "110.39.13.162",
+    "ip": "103.163.244.106",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 2297,
-    "timestamp": "2026-10-15T18:04:21+09:00"
-  },
-  {
-    "ip": "89.208.34.183",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 2389,
-    "timestamp": "2026-10-15T18:04:23+09:00"
+    "latency": 4167,
+    "timestamp": "2026-10-15T18:34:31+09:00"
   },
   {
     "ip": "92.101.193.58",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 1404,
-    "timestamp": "2026-10-15T18:04:23+09:00"
+    "latency": 1771,
+    "timestamp": "2026-10-15T18:34:32+09:00"
   },
   {
-    "ip": "77.37.203.137",
-    "port": "1080",
+    "ip": "160.22.200.60",
+    "port": "69",
     "protocol": "socks5",
-    "latency": 5575,
-    "timestamp": "2026-10-15T18:04:24+09:00"
-  },
-  {
-    "ip": "185.54.244.166",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 5628,
-    "timestamp": "2026-10-15T18:04:24+09:00"
-  },
-  {
-    "ip": "43.246.198.172",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1373,
-    "timestamp": "2026-10-15T18:04:24+09:00"
-  },
-  {
-    "ip": "203.189.135.140",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 958,
-    "timestamp": "2026-10-15T18:04:26+09:00"
-  },
-  {
-    "ip": "163.53.204.178",
-    "port": "9813",
-    "protocol": "socks5",
-    "latency": 3457,
-    "timestamp": "2026-10-15T18:04:26+09:00"
-  },
-  {
-    "ip": "89.189.132.154",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 3047,
-    "timestamp": "2026-10-15T18:04:27+09:00"
+    "latency": 996,
+    "timestamp": "2026-10-15T18:34:32+09:00"
   },
   {
     "ip": "195.190.121.154",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 3787,
-    "timestamp": "2026-10-15T18:04:28+09:00"
-  },
-  {
-    "ip": "217.69.222.174",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1789,
-    "timestamp": "2026-10-15T18:04:29+09:00"
-  },
-  {
-    "ip": "217.175.47.2",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 3862,
-    "timestamp": "2026-10-15T18:04:31+09:00"
-  },
-  {
-    "ip": "202.4.115.232",
-    "port": "9090",
-    "protocol": "socks5",
-    "latency": 4109,
-    "timestamp": "2026-10-15T18:04:32+09:00"
-  },
-  {
-    "ip": "217.12.209.4",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 8420,
-    "timestamp": "2026-10-15T18:04:33+09:00"
-  },
-  {
-    "ip": "8.213.134.213",
-    "port": "8008",
-    "protocol": "socks5",
-    "latency": 6139,
-    "timestamp": "2026-10-15T18:04:34+09:00"
+    "latency": 2782,
+    "timestamp": "2026-10-15T18:34:34+09:00"
   },
   {
     "ip": "109.195.215.208",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 9915,
-    "timestamp": "2026-10-15T18:04:35+09:00"
+    "latency": 3339,
+    "timestamp": "2026-10-15T18:34:37+09:00"
+  },
+  {
+    "ip": "118.179.93.24",
+    "port": "9090",
+    "protocol": "socks5",
+    "latency": 2094,
+    "timestamp": "2026-10-15T18:34:37+09:00"
+  },
+  {
+    "ip": "52.128.241.106",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 740,
+    "timestamp": "2026-10-15T18:34:38+09:00"
+  },
+  {
+    "ip": "165.154.20.187",
+    "port": "10808",
+    "protocol": "socks5",
+    "latency": 7337,
+    "timestamp": "2026-10-15T18:34:38+09:00"
+  },
+  {
+    "ip": "176.114.199.202",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 2005,
+    "timestamp": "2026-10-15T18:34:42+09:00"
+  },
+  {
+    "ip": "202.4.115.232",
+    "port": "9090",
+    "protocol": "socks5",
+    "latency": 5390,
+    "timestamp": "2026-10-15T18:34:43+09:00"
+  },
+  {
+    "ip": "212.237.125.216",
+    "port": "6969",
+    "protocol": "socks5",
+    "latency": 6063,
+    "timestamp": "2026-10-15T18:34:44+09:00"
+  },
+  {
+    "ip": "8.213.134.213",
+    "port": "8008",
+    "protocol": "socks5",
+    "latency": 6089,
+    "timestamp": "2026-10-15T18:34:44+09:00"
   },
   {
     "ip": "47.238.134.126",
     "port": "808",
     "protocol": "socks5",
-    "latency": 6127,
-    "timestamp": "2026-10-15T18:04:35+09:00"
+    "latency": 6128,
+    "timestamp": "2026-10-15T18:34:44+09:00"
   },
   {
-    "ip": "103.162.57.42",
+    "ip": "195.216.241.228",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 2187,
-    "timestamp": "2026-10-15T18:04:35+09:00"
-  },
-  {
-    "ip": "103.161.104.99",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 3405,
-    "timestamp": "2026-10-15T18:04:37+09:00"
-  },
-  {
-    "ip": "46.161.49.174",
-    "port": "10808",
-    "protocol": "socks5",
-    "latency": 8026,
-    "timestamp": "2026-10-15T18:04:38+09:00"
-  },
-  {
-    "ip": "203.189.155.68",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1016,
-    "timestamp": "2026-10-15T18:04:41+09:00"
+    "latency": 1437,
+    "timestamp": "2026-10-15T18:34:46+09:00"
   },
   {
     "ip": "83.237.213.34",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 6528,
-    "timestamp": "2026-10-15T18:04:42+09:00"
+    "latency": 2385,
+    "timestamp": "2026-10-15T18:34:47+09:00"
+  },
+  {
+    "ip": "217.118.188.122",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 3994,
+    "timestamp": "2026-10-15T18:34:48+09:00"
+  },
+  {
+    "ip": "94.228.240.23",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 4497,
+    "timestamp": "2026-10-15T18:34:48+09:00"
   },
   {
     "ip": "209.97.150.167",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 690,
-    "timestamp": "2026-10-15T18:04:42+09:00"
+    "latency": 807,
+    "timestamp": "2026-10-15T18:34:51+09:00"
   },
   {
-    "ip": "8.212.165.164",
-    "port": "443",
+    "ip": "202.91.41.102",
+    "port": "1080",
     "protocol": "socks5",
-    "latency": 6168,
-    "timestamp": "2026-10-15T18:04:45+09:00"
+    "latency": 1101,
+    "timestamp": "2026-10-15T18:34:51+09:00"
+  },
+  {
+    "ip": "84.42.19.54",
+    "port": "1080",
+    "protocol": "socks5",
+    "latency": 2524,
+    "timestamp": "2026-10-15T18:34:53+09:00"
   },
   {
     "ip": "138.68.60.8",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 652,
-    "timestamp": "2026-10-15T18:04:46+09:00"
+    "latency": 499,
+    "timestamp": "2026-10-15T18:34:53+09:00"
+  },
+  {
+    "ip": "8.212.165.164",
+    "port": "443",
+    "protocol": "socks5",
+    "latency": 7269,
+    "timestamp": "2026-10-15T18:34:56+09:00"
   },
   {
     "ip": "149.129.226.9",
     "port": "1234",
     "protocol": "socks5",
-    "latency": 6204,
-    "timestamp": "2026-10-15T18:04:47+09:00"
+    "latency": 6201,
+    "timestamp": "2026-10-15T18:34:56+09:00"
   },
   {
     "ip": "47.250.159.65",
     "port": "8889",
     "protocol": "socks5",
-    "latency": 8444,
-    "timestamp": "2026-10-15T18:04:51+09:00"
+    "latency": 6190,
+    "timestamp": "2026-10-15T18:34:57+09:00"
   },
   {
-    "ip": "134.209.29.120",
+    "ip": "195.9.192.50",
     "port": "1080",
     "protocol": "socks5",
-    "latency": 1091,
-    "timestamp": "2026-10-15T18:04:53+09:00"
-  },
-  {
-    "ip": "193.24.222.150",
-    "port": "33500",
-    "protocol": "socks5",
-    "latency": 2458,
-    "timestamp": "2026-10-15T18:04:53+09:00"
-  },
-  {
-    "ip": "47.238.130.212",
-    "port": "2000",
-    "protocol": "socks5",
-    "latency": 6127,
-    "timestamp": "2026-10-15T18:04:54+09:00"
-  },
-  {
-    "ip": "8.213.156.191",
-    "port": "221",
-    "protocol": "socks5",
-    "latency": 6098,
-    "timestamp": "2026-10-15T18:04:54+09:00"
-  },
-  {
-    "ip": "8.211.194.78",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 7019,
-    "timestamp": "2026-10-15T18:04:56+09:00"
-  },
-  {
-    "ip": "57.128.249.250",
-    "port": "9052",
-    "protocol": "socks5",
-    "latency": 2717,
-    "timestamp": "2026-10-15T18:04:59+09:00"
-  },
-  {
-    "ip": "82.142.130.102",
-    "port": "1080",
-    "protocol": "socks5",
-    "latency": 1737,
-    "timestamp": "2026-10-15T18:05:01+09:00"
+    "latency": 1456,
+    "timestamp": "2026-10-15T18:34:59+09:00"
   }
 ]
